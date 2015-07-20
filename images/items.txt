@@ -1,0 +1,3469 @@
+<?xml version= "1.0"?>
+<items>
+	<id=65>
+		<name>Anarchist Cookbook</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/6/68/Anarchist_Cookbook_Icon.png?version=95bbcc02b850aa404ba5c9118059c73a</img>
+		<type>Active</type>
+		<charge>3</charge>
+		<pool>Library, Treasure</pool>
+		<pickup>Summon bombs</pickup>
+		<effect>Spawns six troll bombs around the room, usually near the center of the room.</effect>
+	</id>
+
+	<id=111>
+		<name>The Bean</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/b/b2/The_Bean_Icon.png?version=1cab83a3a76bb3d0d60c770832a56136</img>
+		<type>Active</type>
+		<charge>1</charge>
+		<pool>Treasure Room</pool>
+		<pickup>Toot on command</pickup>
+		<effect>Upon use Isaac releases gas that slightly damages and poisons any enemies within close range.
+		The area of effect is 1 tile in all directions.</effect>
+	</id>
+
+	<id=136>
+		<name>Best Friend</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/4/41/Best_Friend_Icon.png?version=61702e0e954c0d1de709df3321f664a3</img>
+		<type>Active</type>
+		<charge>3</charge>
+		<pool>Treasure Room</pool>
+		<pickup>Friends 'till the end</pickup>
+		<effect>Spawns a decoy Isaac that distracts enemies and explodes after a short while for 110 damage.</effect>
+	</id>
+
+	<id=33>
+		<name>The Bible</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/4/4c/The_Bible_Icon.png?version=a16b5edb80bdf2a7b2b6b291da9d640f</img>
+		<type>Active</type>
+		<charge>6</charge>
+		<pool>Library, Shop, Item Room</pool>
+		<pickup>Temporary Flight</pickup>
+		<effect>Grants Isaac flight for the current room.
+		If used in the fight with Mom, Mom's Heart, or It Lives, it will kill her instantly.
+		Using the Bible on Satan will kill Isaac.</effect>
+	</id>
+
+	<id=286>
+		<name>Blank Card</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/8/82/Blank_Card_Icon.png?version=b70b15d4e3bff7968db44bdab18fc3a6</img>
+		<type>Active</type>
+		<charge>4</charge>
+		<pool>Secret Room, Shop, Treasure Room</pool>
+		<pickup>Card Mimic</pickup>
+		<effect>Mimics the effect of Isaac's held card or rune.
+		Does not consume Isaac's current held item.
+		Will not mimic Pills.</effect>
+	</id>
+
+	<id=186>
+		<name>Blood Rights</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/9/9d/Blood_Rights_Icon.png?version=696265314d1aa5e98a6678f7417909ae</img>
+		<type>Active</type>
+		<charge>0</charge>
+		<pool>Treasure Room</pool>
+		<pickup>Mass enemy damage at a cost</pickup>
+		<effect>Isaac takes one full red heart of damage and damages the entire room.</effect>
+	</id>
+
+	<id=42>
+		<name>Bob's Rotten Head</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/a/ad/Bob%27s_Rotten_Head_Icon.png?version=3c9e8fd8a7ecc0f3acf92ea15c7e9dba</img>
+		<type>Active</type>
+		<charge>3</charge>
+		<pool></pool>
+		<pickup>Reusable ranged bomb</pickup>
+		<effect>Upon use, Isaac holds a poison bomb which can be thrown towards any of the four cardinal points and explodes on impact.</effect>
+	</id>
+
+	<id=34>
+		<name>The Book Of Belial</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/0/07/The_Book_Of_Belial_Icon.png?version=42c682febbf9050068a7e4674d7bda70</img>
+		<type>Active</type>
+		<charge>3</charge>
+		<pool>Devil Room, Library</pool>
+		<pickup>Temporary DMG up</pickup>
+		<effect>Increases damage by 2 upon use for the current room.
+		Increases damage by a further +50% if the character is also holding the Blood Of The Martyr.</effect>
+	</id>
+
+	<id=78>
+		<name>Book Of Revelations</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/8/88/Book_Of_Revelations_Icon.png?version=7e3ad6b32d586853a3df832b8613003f</img>
+		<type>Active</type>
+		<charge>6</charge>
+		<pool>Library,  Treasure Room</pool>
+		<pickup>Reusable soul protection</pickup>
+		<effect>Grants a Soul Heart upon activation.
+		Increases chance for a Devil/Angel Room Door to open if held while killing the Boss of the floor by 35%.
+		If The Book of Revelations is used at least once in a map, a Harbinger will replace the normal level boss:</effect>
+	</id>
+
+	<id=287>
+		<name>Book Of Secrets</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/8/88/Book_Of_Secrets_Icon.png?version=148cf62e09bdff3954efbfa74a433ac2</img>
+		<type>Active</type>
+		<charge>6</charge>
+		<pool>Treasure Room, Library, Secret Room</pool>
+		<pickup>??????</pickup>
+		<effect>Upon activation, it gives Isaac one of the following item effects: Treasure Map, The Compass, Blue Map for the duration of the current floor.</effect>
+	</id>
+
+	<id=58>
+		<name>Book Of Shadows</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/c/c8/Book_Of_Shadows_Icon.png?version=d6e8a2dbbcd08ad45aef5fc71d4f9aa3</img>
+		<type>Active</type>
+		<charge>3</charge>
+		<pool>Treasure Room, Library</pool>
+		<pickup>Temporary Invincibility</pickup>
+		<effect>Upon use creates a protective shield nullifying all types of damage for 10 seconds.</effect>
+	</id>
+
+	<id=97>
+		<name>The Book Of Sin</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/7/79/The_Book_Of_Sin_Icon.png?version=1e59bb9921a71ec0603f0fab2dd3b033</img>
+		<type>Active</type>
+		<charge>4</charge>
+		<pool>Treasure Room, Devil Room, Library</pool>
+		<pickup>Reusable Item Generator</pickup>
+		<effect>Spawns a random Pickup, excluding chests.</effect>
+	</id>
+
+	<id=338>
+		<name>The Boomerang</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/a/a5/The_Boomerang_Icon.png?version=67074b4c1da18b22a0bbfa1e1f71f10d</img>
+		<type>Active</type>
+		<charge>4 seconds</charge>
+		<pool>Shop</pool>
+		<pickup>It will never leave you</pickup>
+		<effect>Upon activation Isaac raises the boomerang above his head. Pressing a direction key will throw the boomerang and it will return shortly afterwards.
+		Enemies hit by Boomerang will take 7 damage and be stunned for approximately 2 seconds.</effect>
+	</id>
+
+	<id=288>
+		<name>Box Of Spiders</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/c/c1/Box_Of_Spiders_Icon.png?version=7599076f1852ce539aa5f95e3923c4be</img>
+		<type>Active</type>
+		<charge>2</charge>
+		<pool>Treasure Room</pool>
+		<pickup>It's a box of spiders</pickup>
+		<effect>Spawns 1-4 Blue Spiders.</effect>
+	</id>
+
+	<id=326>
+		<name>Breath Of Life</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/7/77/Breath_Of_Life_Icon.png?version=b06c634016f691420ad66f035caed61e</img>
+		<type>Active</type>
+		<charge>6; 1 per second</charge>
+		<pool>Angel Room</pool>
+		<pickup>Invincibility at a cost</pickup>
+		<effect>Holding spacebar will gradually deplete the charge bar.
+		Grants a brief moment of invincibility when the charge bar hits zero. If spacebar is held for an additional second after hitting zero, Isaac will take damage.
+		The item will recharge on its own but cannot be used again until it is fully charged (even if you didn't fully deplete the charge bar).</effect>
+	</id>
+
+	<id=294>
+		<name>Butter Bean</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/7/70/Butter_Bean_Icon.png?version=eb872736aa504c7bd48dd5c732bcc1c4</img>
+		<type>Active</type>
+		<charge>4 seconds</charge>
+		<pool>Beggar, Treasure Room</pool>
+		<pickup>Reusable knock-back</pickup>
+		<effect>Releases a gas that knocks back nearby enemies upon activation.</effect>
+	</id>
+
+	<id=164>
+		<name>The Candle</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/9/9a/The_Candle_Icon.png?version=6b0c0483d769cc2a7f285c61380a2417</img>
+		<type>Active</type>
+		<charge>Timed</charge>
+		<pool>Shop</pool>
+		<pickup>Reusable flame</pickup>
+		<effect>On pressing a fire button, a blue flame projectile will fire in the chosen direction that deals significant damage to enemies it comes in contact with, extinguishing itself after a fixed time of approximately two seconds.
+		The flame deals 23 damage per damage tick.
+		The average damage done by this item is about 115 with the maximum damage possible being 184.</effect>
+	</id>
+
+	<id=296>
+		<name>Converter</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/a/ab/Converter_Icon.png?version=b5f221cb3bd7ad8986a19700b68f7a7d</img>
+		<type>Active</type>
+		<charge>none</charge>
+		<pool>Shop</pool>
+		<pickup>Convert your soul</pickup>
+		<effect>Converts two soul hearts or black hearts into a heart container.</effect>
+	</id>
+
+	<id=160>
+		<name>Crack The Sky</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/9/98/Crack_The_Sky_Icon.png?version=84e8d0feb59c5f0483cc74f184f2068c</img>
+		<type>Active</type>
+		<charge>4</charge>
+		<pool>Treasure Room</pool>
+		<pickup>Holy white death</pickup>
+		<effect>Upon activation, 5 beams of light will appear in random locations on the ground. Each beam will last for 0.8 seconds and will deal 20 damage to any enemy that touches them.
+		The beams tend to gravitate towards the enemies, unlike the original game.</effect>
+	</id>
+
+	<id=158>
+		<name>Crystal Ball</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/9/97/Crystal_Ball_Icon.png?version=d99e0fe621e1bd5bba8134c8d0a07a27</img>
+		<type>Active</type>
+		<charge>6</charge>
+		<pool>TreasureDestroyed Fortune Tellers</pool>
+		<pickup>I see my future</pickup>
+		<effect>Upon use, reveals the floor layout and all special rooms except the Super Secret Room and drops one random Tarot Card or a Soul Heart.</effect>
+	</id>
+
+	<id=284>
+		<name>D4</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/3/34/D4_Icon.png?version=7c68f42f7f6a7c3215a4e6cdf0a585ec</img>
+		<type>Active</type>
+		<charge>6</charge>
+		<pool>Treasure Room</pool>
+		<pickup>Reroll into something else</pickup>
+		<effect>Upon use, re-rolls each of Isaac's items into a random item from the same pool.</effect>
+	</id>
+
+	<id=105>
+		<name>The D6</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/f/fa/The_D6_Icon.png?version=2c99caf2a0b8735bcd503e4a895479c8</img>
+		<type>Active</type>
+		<charge>6</charge>
+		<pool>Treasure</pool>
+		<pickup>Reroll Your Destiny</pickup>
+		<effect>Upon use, replaces every item in the current room (not pickups or trinkets) with other random items corresponding to the current room's item pool.</effect>
+	</id>
+
+	<id=285>
+		<name>D10</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/6/6e/D10_Icon.png?version=5db3d9dc6a953d1a13b659f17149c101</img>
+		<type>Active</type>
+		<charge>1</charge>
+		<pool>Treasure Room</pool>
+		<pickup>Rerolls enemies</pickup>
+		<effect>Upon use, turns all of the enemies in a room into different ones.</effect>
+	</id>
+
+	<id=166>
+		<name>D20</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/7/7a/D20_Icon.png?version=5ad9f31cc05a3eff0b32b1afad09a261</img>
+		<type>Active</type>
+		<charge>6</charge>
+		<pool>Treasure</pool>
+		<pickup>Reroll the basics</pickup>
+		<effect>Randomizes and redrops all Pickups and Chests within a room.
+		This includes the empty chest object that is left behind after opening any kind of chest, so never reroll a chest you haven't opened yet. Empty chests also disappear after leaving the room, so waiting to open a chest or chests until you've got a full charge may be the best strategy if you're starved for pickups.
+		All pickups will appear in the same quantity as before.
+		All items will reappear in their same location, even inside a shop.
+		Note that on The Chest and Dark Room levels, the rerolled chests WILL contain items.</effect>
+	</id>
+
+	<id=283>
+		<name>D100</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/2/2a/D100_Icon.png?version=b17088488c2d125543b3ebc8edf97079</img>
+		<type>Active</type>
+		<charge>6</charge>
+		<pool>Treasure Room</pool>
+		<pickup>REEROLLLLL!</pickup>
+		<effect>Upon use, rerolls all passive items on Isaac like the D4, every pedestal item in the room like the D6 and every pickup like the D20.</effect>
+	</id>
+
+	<id=175>
+		<name>Dad's Key</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/0/04/Dad%27s_Key_Icon.png?version=0f158adf8bfb150ce24022f290f85904</img>
+		<type>Active</type>
+		<charge>2</charge>
+		<pool>Key Master, Treasure</pool>
+		<pickup>"Opens all doors..."</pickup>
+		<effect>Opens all locked doors, including Secret Rooms and Super Secret Rooms, even if the requirement is not met, and rooms in The Chest.
+		Can be used to open the door to the Mega Satan boss fight.
+		Can be used to open the Boss Challenge Room from the inside.
+		Cannot be used to open Angel Rooms, Devil Rooms, or the Boss Rush room. However, in Boss Rush rooms, you can use it to escape the Boss Rush with an item.
+		Cannot be used to open chests.</effect>
+	</id>
+
+	<id=124>
+		<name>Dead Sea Scrolls</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/4/42/Dead_Sea_Scrolls_Icon.png?version=5fc014302daa2dcd64824b26e56e5be8</img>
+		<type>Active</type>
+		<charge>2</charge>
+		<pool>Angel Room, Treasure</pool>
+		<pickup>It's a mystery</pickup>
+		<effect>If activated, a random activated item effect will activate. The possible effects of the Dead Sea Scrolls seem to be limited to activated items which were part of the original Binding of Isaac prior to the Wrath of the Lamb expansion.</effect>
+	</id>
+
+	<id=85>
+		<name>Deck Of Cards</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/f/f8/Deck_Of_Cards_Icon.png?version=d9a4e1eea6169dcee08bfbf0db6800b1</img>
+		<type>Active</type>
+		<charge>6</charge>
+		<pool>Shop, Treasure</pool>
+		<pickup>Reusable Card Generator</pickup>
+		<effect>Upon use, spawns a random tarot card.</effect>
+	</id>
+
+	<id=47>
+		<name>Doctor's Remote</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/2/26/Doctor%27s_Remote_Icon.png?version=2bc81bc561aa21fbff3920375576f234</img>
+		<type>Active</type>
+		<charge>3</charge>
+		<pool>Treasure</pool>
+		<pickup>Reusable Air Strike</pickup>
+		<effect>Upon activation, a large red marker will appear on the ground. The player can control where the target is using the mouse or the arrow keys. Pressing space can launch the missile instantly, otherwise it will fire after 6 seconds automatically. The 'missile' acts like a large bomb explosion dealing 20 times the character's damage (the same as Epic Fetus).</effect>
+	</id>
+
+	<id=291>
+		<name>Flush!</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/5/57/Flush%21_Icon.png?version=2f2dc74ea69fe0fbce050a6f8b1d867b</img>
+		<type>Active</type>
+		<charge>6</charge>
+		<pool>Treasure Room</pool>
+		<pickup>...</pickup>
+		<effect>Turns all non-boss enemies into poop.</effect>
+	</id>
+
+	<id=127>
+		<name>Forget Me Now</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/5/56/Forget_Me_Now_Icon.png?version=c696b17aa9c0eb89c732a3da9f267209</img>
+		<type>Active</type>
+		<charge>none</charge>
+		<pool>Secret, Treasure Room</pool>
+		<pickup>I don't remember</pickup>
+		<effect>Upon activation this item is consumed and will vanish from Isaac's inventory.
+		Upon activation the current floor will be completely re-generated.
+		Isaac will restart the level just as if he had entered a new floor.</effect>
+	</id>
+
+	<id=93>
+		<name>The Gamekid</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/5/5e/The_Gamekid_Icon.png?version=95d122f7bc2db0e66b892989759569d0</img>
+		<type>Active</type>
+		<charge>6</charge>
+		<pool>Treasure Room</pool>
+		<pickup>Temporary Man-Pac</pickup>
+		<effect>Upon use turns the character into a PacMan-like creature for five seconds and provides the following effects:</effect>
+	</id>
+
+	<id=145>
+		<name>Guppy's Head</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/5/5a/Guppy%27s_Head_Icon.png?version=791580e55d6fa4521f03d326866e1783</img>
+		<type>Active</type>
+		<charge>1</charge>
+		<pool>Curse Room, Devil Room, Golden Chest</pool>
+		<pickup>Reusable fly hive</pickup>
+		<effect>Spawns 2-4 Blue Flies.</effect>
+	</id>
+
+	<id=133>
+		<name>Guppy's Paw</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/4/4c/Guppy%27s_Paw_Icon.png?version=ee6aa4f4beae12180e47dc2fdc891fd4</img>
+		<type>Active</type>
+		<charge>Instant</charge>
+		<pool>Curse Room, Devil Room</pool>
+		<pickup>Soul converter</pickup>
+		<effect>Converts one Heart Container to three Soul Hearts.
+		This item belongs to the Guppy set. Collecting three items from the set will transform Isaac into Guppy.</effect>
+	</id>
+
+	<id=293>
+		<name>Head Of Krampus</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/7/76/Head_Of_Krampus_Icon.png?version=397ae65c918b644fa0fa09453785d6ff</img>
+		<type>Active</type>
+		<charge>6</charge>
+		<pool>Drops after defeating Krampus</pool>
+		<pickup>Krampus Rage</pickup>
+		<effect>Fires a powerful Brimstone beam in four cardinal directions.</effect>
+	</id>
+
+	<id=282>
+		<name>How To Jump</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/1/1f/How_To_Jump_Icon.png?version=4080bac2b58085c480e66be491dabb7d</img>
+		<type>Active</type>
+		<charge>0</charge>
+		<pool>Library, Treasure</pool>
+		<pickup>It's about time you learned how</pickup>
+		<effect>Gives Isaac the ability to jump over gaps, spikes etc. If you have the ability to fly, you will leap a  distance in the direction you are moving based on how fast you were going when you activated the item.</effect>
+	</id>
+
+	<id=66>
+		<name>The Hourglass</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/2/20/The_Hourglass_Icon.png?version=f6a48c70be5877a9fc8653017af2a972</img>
+		<type>Active</type>
+		<charge>2</charge>
+		<pool>Treasure</pool>
+		<pickup>Temporary enemy slowdown</pickup>
+		<effect>All enemies in the room are slowed.</effect>
+	</id>
+
+	<id=323>
+		<name>Isaac's Tears</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/b/b6/Isaac%27s_Tears_Icon.png?version=abd5d8d67d4fc2c5e51bd957a1ff6d9a</img>
+		<type>Active</type>
+		<charge>6 tear shots</charge>
+		<pool>Treasure Room</pool>
+		<pickup>Collected tears</pickup>
+		<effect>Fires 8 tears around the player, which retain the damage, shot speed, and most special effects of the player's tears. Each tear shot by the player increases item charge by one.</effect>
+	</id>
+
+	<id=135>
+		<name>IV Bag</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/c/c0/IV_Bag_Icon.png?version=58a5e3613baaba30919962af313f6015</img>
+		<type>Active</type>
+		<charge>0</charge>
+		<pool>Blood Donation Machine</pool>
+		<pickup>Portable blood bank</pickup>
+		<effect>When activated, causes Isaac to lose half a heart (or a full heart in The Womb and beyond) while spawning 1-3 coins.</effect>
+	</id>
+
+	<id=290>
+		<name>The Jar</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/d/db/The_Jar_Icon.png?version=4498a57ce7c486931b0153e5c73fff76</img>
+		<type>Active</type>
+		<charge>none</charge>
+		<pool>Shop</pool>
+		<pickup>Save your life</pickup>
+		<effect>Isaac can store up to 4 extra red hearts in the jar if there are no remaining empty Heart Containers.
+		When used, all hearts in the jar are dropped on the floor, rather than directly consuming them.</effect>
+	</id>
+
+	<id=40>
+		<name>Kamikaze!</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/d/db/Kamikaze%21_Icon.png?version=b9d148b71a2d11d6321c8833a299097a</img>
+		<type>Active</type>
+		<charge>0</charge>
+		<pool>Treasure Room</pool>
+		<pickup>Become the bomb!</pickup>
+		<effect>Upon activation, causes an explosion in the same place as Isaac, damaging him and all monsters caught in the blast.</effect>
+	</id>
+
+	<id=56>
+		<name>Lemon Mishap</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/1/19/Lemon_Mishap_Icon.png?version=7f89e3dee9737ddd43169f9a511c0cea</img>
+		<type>Active</type>
+		<charge>2</charge>
+		<pool>Treasure Room</pool>
+		<pickup>Oops</pickup>
+		<effect>When used, a tiny pool of 'Lemonade' will drop on the floor, damaging any enemies that walk over it.
+		This effect is especially useful against any kind of stationary or slow enemy.</effect>
+	</id>
+
+	<id=295>
+		<name>Magic Fingers</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/4/4b/Magic_Fingers_Icon.png?version=84e32c330f69b0ebcf55dea25c4ec691</img>
+		<type>Active</type>
+		<charge>Instant</charge>
+		<pool>Shop, Treasure Room</pool>
+		<pickup>Pay to play</pickup>
+		<effect>Uses 1 coin to deal a screen-wide damaging attack similar to The Necronomicon that scales based on player damage. Unlike the Necronomicon, however, it has no recharge and can be used repeatedly in the same room.</effect>
+	</id>
+
+	<id=102>
+		<name>Mom's Bottle Of Pills</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/5/55/Mom%27s_Bottle_Of_Pills_Icon.png?version=841e8565c50f8333e91f69b517db5ca0</img>
+		<type>Active</type>
+		<charge>6</charge>
+		<pool>Beggar, Demon Beggar, Dungeon, Shop, Treasure</pool>
+		<pickup>Reusable pill generator</pickup>
+		<effect>Will spawn a random pill upon activation.
+		Using this item with the Starter Deck will cause the Mom's Bottle of Pills to dispense tarot cards instead.</effect>
+	</id>
+
+	<id=39>
+		<name>Mom's Bra</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/c/c4/Mom%27s_Bra_Icon.png?version=8cf068703ca153b7b5b9fa55d618e93a</img>
+		<type>Active</type>
+		<charge>3</charge>
+		<pool>Dungeon, Treasure Room</pool>
+		<pickup>Mass Fear</pickup>
+		<effect>Upon use, it petrifies all enemies in the current room for approximately 4 seconds.</effect>
+	</id>
+
+	<id=41>
+		<name>Mom's Pad</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/b/b7/Mom%27s_Pad_Icon.png?version=8429986318f13c34c03181f2e28e6003</img>
+		<type>Active</type>
+		<charge>3</charge>
+		<pool>Treasure</pool>
+		<pickup>Gross...</pickup>
+		<effect>Upon use, inflicts fear to all enemies in the room for 5 seconds.</effect>
+	</id>
+
+	<id=123>
+		<name>Monster Manual</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/9/9c/Monster_Manual_Icon.png?version=69fa557cf322778d4714eef4f46d1e10</img>
+		<type>Active</type>
+		<charge>3</charge>
+		<pool>Treasure Room</pool>
+		<pickup>Temporary buddy generator</pickup>
+		<effect>Summons a random  familiar for the duration of the current room.</effect>
+	</id>
+
+	<id=86>
+		<name>Monstro's Tooth</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/7/76/Monstro%27s_Tooth_Icon.png?version=a2f147d9cc7d89a1395bf0457379a532</img>
+		<type>Active</type>
+		<charge>3</charge>
+		<pool>Treasure Room</pool>
+		<pickup>Summon Monstro</pickup>
+		<effect>Summons Monstro to drop from above, landing on enemies, dealing 120 damage to them and destroying obstacles like rocks.</effect>
+	</id>
+
+	<id=37>
+		<name>Mr. Boom</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/a/ae/Mr._Boom_Icon.png?version=c1d9d8381430af8aa6ff6bfcb5650182</img>
+		<type>Passive</type>
+		<charge>2</charge>
+		<pool>Treasure, Boss, Rush</pool>
+		<pickup>Reusable bomb buddy</pickup>
+		<effect>Upon activation, Mr. Boom will summon a large bomb, similar to ones produced by Mr. Mega. It has greater damage and blast radius than a default bomb.</effect>
+	</id>
+
+	<id=77>
+		<name>My Little Unicorn</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/c/cb/My_Little_Unicorn_Icon.png?version=b4d445cf89f99c0bdd682a20c8ba3c9b</img>
+		<type>Active</type>
+		<charge>6</charge>
+		<pool>Treasure Room</pool>
+		<pickup>Temporary badass</pickup>
+		<effect>Upon use grants invulnerability and increased speed for five seconds, removing the ability to shoot tears and instead dealing contact damage to enemies.</effect>
+	</id>
+
+	<id=83>
+		<name>The Nail</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/e/e0/The_Nail_Icon.png?version=b3b18b5366e363db53aca07be15c22de</img>
+		<type>Active</type>
+		<charge>6</charge>
+		<pool>Devil Room, Pool</pool>
+		<pickup>Temporary demon form</pickup>
+		<effect>Adds one Soul Heart upon use.
+		Gives the player +0.7 damage, -0.18 speed, and the ability to destroy rocks by colliding with them for the current room.
+		Allows Isaac to deal contact damage to enemies for the current room. Does not prevent Isaac from taking contact damage.</effect>
+	</id>
+
+	<id=35>
+		<name>The Necronomicon</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/7/77/The_Necronomicon_Icon.png?version=f6c551054739bce5b3446c0a409ed582</img>
+		<type>Active</type>
+		<charge>6</charge>
+		<pool>Treasure Room, Library, Secret Room, Devil Room</pool>
+		<pickup>Mass room damage</pickup>
+		<effect>Upon use it deals 40 damage to every enemy in the room.</effect>
+	</id>
+
+	<id=147>
+		<name>Notched Axe</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/5/5c/Notched_Axe_Icon.png?version=b18843c6e9d5a6d754fbfabf866b3885</img>
+		<type>Active</type>
+		<charge>3</charge>
+		<pool>Treasure</pool>
+		<pickup>Rocks don't stand a chance</pickup>
+		<effect>Isaac holds the Notched Axe above his head as long as he is in that room, and can break any rock he touches, as well as break through walls that lead into secret rooms.
+		However, if Isaac takes damage while using the Notched Axe, his current use of the Axe will end.
+		Isaac cannot attack or pick up other items while holding the Notched Axe.</effect>
+	</id>
+
+	<id=297>
+		<name>Pandora's Box</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/2/2d/Pandora%27s_Box_Icon.png?version=9764a5ae7de20e22c5163156291e8328</img>
+		<type>Active</type>
+		<pool>Shop, Curse Room, Red Chest</pool>
+		<pickup>??</pickup>
+		<effect>Upon use, spawns certain Pickups or Items depending on the floor it is used on. Pandora's Box disappears after use.</effect>
+	</id>
+
+	<id=107>
+		<name>The Pinking Shears</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/4/4b/The_Pinking_Shears_Icon.png?version=410cd80f961b4a768e66b413f1438e22</img>
+		<type>Active</type>
+		<charge>6</charge>
+		<pool>Treasure</pool>
+		<pickup>Cut and Run</pickup>
+		<effect>Separates Isaac's head and body for the current room. Isaac's head, which now has flight, will be under the player's control, while his body will seek out enemies to attack by contact damage.</effect>
+	</id>
+
+	<id=130>
+		<name>The Pony</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/8/87/The_Pony_Icon.png?version=fd2fffcd9a6e590351ef5ab0a480fd02</img>
+		<type>Active</type>
+		<charge>4</charge>
+		<pool>The Headless Horseman</pool>
+		<pickup>Flight + Dash Attack</pickup>
+		<effect>Passively grants flight.
+		If Isaac's speed is less than 1.5, the item passively increases his speed to 1.5.
+		When activated, Isaac charges in the direction the pony is facing, becoming invulnerable during the charge and damaging enemies.</effect>
+	</id>
+
+	<id=36>
+		<name>The Poop</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/7/72/The_Poop_Icon.png?version=78bdfeab856f27feb955b9755b73578f</img>
+		<type>Active</type>
+		<charge>1</charge>
+		<pool>Treasure</pool>
+		<pickup>Plop!</pickup>
+		<effect>Spawns a pile of poop where the character is standing and knockbacks nearby monsters. This pile of poop may yield pickups like regular poop.</effect>
+	</id>
+
+	<id=177>
+		<name>Portable Slot</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/9/9c/Portable_Slot_Icon.png?version=6b905acada7d008638c26abf2844ae49</img>
+		<type>Active</type>
+		<charge>Instant</charge>
+		<pool>Shop, Beggar</pool>
+		<pickup>Gamble 24/7</pickup>
+		<effect>Upon use, consumes 1 coin and has a chance to drop a random pickup, like a Slot Machine.</effect>
+	</id>
+
+	<id=146>
+		<name>Prayer Card</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/1/17/Prayer_Card_Icon.png?version=4c754c3d6b1784820ae70991a554f672</img>
+		<type>Active</type>
+		<charge>6</charge>
+		<pool>Treasure Room, Angel Room</pool>
+		<pickup>Reusable eternity</pickup>
+		<effect>Gives Isaac an Eternal Heart upon activation.</effect>
+	</id>
+
+	<id=126>
+		<name>Razor Blade</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/b/b4/Razor_Blade_Icon.png?version=be42f89c467f8fa67db4e66f72765087</img>
+		<type>Active</type>
+		<charge>0</charge>
+		<pool>Devil Room</pool>
+		<pickup>Feel my pain</pickup>
+		<effect>Upon use deals one heart damage and grants +1.2 damage for the current room.</effect>
+	</id>
+
+	<id=289>
+		<name>Red Candle</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/a/ab/Red_Candle_Icon.png?version=934b668fd2367fcb64f0bd14c77d5d60</img>
+		<type>Active</type>
+		<charge>4 seconds</charge>
+		<pool>Shop</pool>
+		<pickup>Flame on</pickup>
+		<effect>Upon activation, Isaac will raise the candle above his head. On pressing a fire button, a red flame, similar to a fireplace, will fire in the chosen direction that deals a maximum of 125 damage per flame.
+		The flame also destroys enemy shots it comes into contact with, which decreases its size each time being hit until the flame is entirely extinguished by this process. The flame will extinguish itself after a short time regardless of the number of projectiles blocked.</effect>
+	</id>
+
+	<id=137>
+		<name>Remote Detonator</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/2/2f/Remote_Detonator_Icon.png?version=12f36d30c04c4b4b5dfd33f18812f010</img>
+		<type>Active</type>
+		<charge>0</charge>
+		<pool>Treasure, Shop, Boss, Challenge Room</pool>
+		<pickup>Remote bomb detonation</pickup>
+		<effect>Bombs will no longer explode after a short delay
+		Activating the Remote Detonator will cause all bombs you've placed to explode.
+		Gives 5 Bombs when picked up for the first time.</effect>
+	</id>
+
+	<id=292>
+		<name>Satanic Bible</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/5/5b/Satanic_Bible_Icon.png?version=7f5a2262c92226e136dac4049195a043</img>
+		<type>Active</type>
+		<charge>6</charge>
+		<pool>Treasure, Library, Devil Room</pool>
+		<pickup>Reusable Evil</pickup>
+		<effect>Upon activation, the player gains a Black Heart.</effect>
+	</id>
+
+	<id=325>
+		<name>Scissors</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/8/83/Scissors_Icon.png?version=c639b0d81e2b26daeef1d1e5ce873bbf</img>
+		<type>Active</type>
+		<charge>6</charge>
+		<pool>Treasure Room</pool>
+		<pickup>Lose your head</pickup>
+		<effect>Upon use, turns Isaac's head into a stationary familiar which fires tears for the current room. These tears do not scale with your damage and will always do the same amount of damage per shot as Isaac's starting damage.</effect>
+	</id>
+
+	<id=49>
+		<name>Shoop Da Whoop!</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/2/2c/Shoop_Da_Whoop%21_Icon.png?version=09162348fbfef648ed0ca7702a5cb301</img>
+		<type>Active</type>
+		<charge>2</charge>
+		<pool>Treasure</pool>
+		<pickup>BLLLARRRRGGG!</pickup>
+		<effect>When activated, the next shot will fire a big laser in the direction Isaac shoots.
+		Damage scales with Isaac's Damage.</effect>
+	</id>
+
+	<id=171>
+		<name>Spider Butt</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/7/7f/Spider_Butt_Icon.png?version=029845f7cbd949037d3d5881aced41dc</img>
+		<type>Active</type>
+		<charge>2</charge>
+		<pool>Treasure Room</pool>
+		<pickup>Mass enemy slowdown + damage</pickup>
+		<effect>Damages all enemies in the room and temporarily slows them.</effect>
+	</id>
+
+	<id=38>
+		<name>Tammy's Head</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/2/2f/Tammy%27s_Head_Icon.png?version=1640c89889130f1c465c599c543a0c20</img>
+		<type>Active</type>
+		<charge>1</charge>
+		<pool>Golden Chest</pool>
+		<pickup>Reusable tear burst</pickup>
+		<effect>Shoots 10 tears in a circle around Isaac.
+		The tears retain shot speed and special effects (such as Poison) of Isaac's tears.
+		Each tear will deal Isaac's current damage and a + 25 damage bonus on top.</effect>
+	</id>
+
+	<id=192>
+		<name>Telepathy For Dummies</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/1/12/Telepathy_For_Dummies_Icon.png?version=165e4bf469cc7d7a3ccd20e1cad2d1bc</img>
+		<type>Active</type>
+		<charge>2</charge>
+		<pool>Treasure Room, Library</pool>
+		<pickup>Temporary psychic shot</pickup>
+		<effect>Upon activation, grants homing tears for the current room.</effect>
+	</id>
+
+	<id=44>
+		<name>Teleport</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/b/b0/Teleport_Icon.png?version=fa3ae5b5733d5aafd07de2f910ab5f80</img>
+		<type>Active</type>
+		<charge>2</charge>
+		<pool>Treasure Room</pool>
+		<pickup>Teleport!</pickup>
+		<effect>Upon activation, teleports Isaac to a random room on the current floor.</effect>
+	</id>
+
+	<id=324>
+		<name>Undefined</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/5/5b/Undefined_Icon.png?version=7bc342b39b7a4d829af2ee6511e91f15</img>
+		<type>Active</type>
+		<charge>6</charge>
+		<pool>Treasure Room, Pool</pool>
+		<pickup>Undefined</pickup>
+		<effect>Upon use, teleports Isaac to the Treasure Room, the Secret Room, the Super Secret Room, I AM ERROR or Black Market (very low chance).</effect>
+	</id>
+
+	<id=298>
+		<name>Unicorn Stump</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/3/3c/Unicorn_Stump_Icon.png?version=13201c2b7b82d12a85eb5980b6813d89</img>
+		<type>Active</type>
+		<charge>1</charge>
+		<pool>Treasure Room</pool>
+		<pickup>You feel stumped</pickup>
+		<effect>Upon use, grants invulnerability and increased speed for five seconds but removes the ability to shoot tears while the effect is active.</effect>
+	</id>
+
+	<id=84>
+		<name>We Need To Go Deeper!</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/6/69/We_Need_To_Go_Deeper%21_Icon.png?version=53d299b46b2555c05491993fdf4864e2</img>
+		<type>Active</type>
+		<charge>6</charge>
+		<pool>Devil Room, Secret Room</pool>
+		<pickup>Reusable level skip</pickup>
+		<effect>Spawns a trapdoor that leads to the next floor upon activation.
+		There is a 10% chance the trapdoor will lead into a Crawl Space or a Black Market.</effect>
+	</id>
+
+	<id=181>
+		<name>White Pony</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/2/2e/White_Pony_Icon.png?version=e8852d27dd4123f73c006e9d4d098e8c</img>
+		<type>Active</type>
+		<charge>6</charge>
+		<pool>Conquest</pool>
+		<pickup>Flight + holy death</pickup>
+		<effect>Passively grants flight.
+		If Isaac's speed is less than 1.5, the item passively increases his speed to 1.5.
+		Upon use, Isaac charges in the direction the pony is facing, becoming invulnerable during the charge and damaging enemies while also casting the effect of Crack The Sky.</effect>
+	</id>
+
+	<id=45>
+		<name>Yum Heart</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/e/e0/Yum_Heart_Icon.png?version=fdcaf76bd390ed5f8cbbcbdfd37e9cf0</img>
+		<type>Passive</type>
+		<charge>4</charge>
+		<pool>Treasure Room, Super Lust</pool>
+		<pickup>Reusable Regeneration</pickup>
+		<effect>Replenishes one red heart of Isaac's health.</effect>
+	</id>
+
+	<id=15>
+		<name>Less Than Three</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/5/52/Less_Than_Three_Icon.png?version=0b0c4d1264f94d5bb5c2688a07f4888b</img>
+		<type>Passive</type>
+		<pool>Boss, Treasure Room, Gluttony</pool>
+		<pickup>HP up</pickup>
+		<effect>Increases available heart containers by 1 and restores all health.</effect>
+	</id>
+
+	<id=320>
+		<name>Blue Baby's Only Friend</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/8/83/Blue_Baby%27s_Only_Friend_Icon.png?version=fa37828bbff0280a00d04e12cf477c74</img>
+		<type>Passive</type>
+		<pool>Treasure</pool>
+		<pickup>Controlled friend</pickup>
+		<effect>Gives Isaac a controllable follower that damages enemies on touch. Works similar to The Ludovico Technique and Robo-Baby 2.0.
+		This item belongs to the Lord of the Flies set. Collecting three items from the set will transform Isaac into Lord of the Flies.</effect>
+	</id>
+
+	<id=11>
+		<name>1up!</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/9/90/1up%21_Icon.png?version=f775dd76677be5d7d9ae9449dde21b80</img>
+		<type>Passive</type>
+		<pool>Secret Room</pool>
+		<pickup>Extra life</pickup>
+		<effect>Isaac gains an extra life.
+		On resurrection, the mushroom that follows Isaac will disappear and Isaac will respawn with all its previous Red Heart Containers at full health.
+		Resurrection takes place before all other resurrection items except Guppy's Collar.
+		If Isaac has no Red Heart Containers, he'll respawn with 1/2 Soul Heart instead.
+		??? will respawn with 3 soul hearts.</effect>
+	</id>
+
+	<id=245>
+		<name>20/20</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/a/a4/20_20_Icon.png?version=a6927e8817e86912e7231311a4c5556b</img>
+		<type>Passive</type>
+		<pool>Treasure</pool>
+		<pickup>Double shot</pickup>
+		<effect>Grants a double shot.</effect>
+	</id>
+
+	<id=191>
+		<name>3 Dollar Bill</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/5/58/3_Dollar_Bill_Icon.png?version=2ff5828b58315cd19d9ed52d6be1d8f4</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>Rainbow tears</pickup>
+		<effect>Grants Isaac rainbow tears. The possible effects are:</effect>
+	</id>
+
+	<id=116>
+		<name>9 Volt</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/5/56/9_Volt_Icon.png?version=75029a033ad5c50dab4953a9d84da640</img>
+		<type>Passive</type>
+		<pool>Shop</pool>
+		<pickup>Quicker charge</pickup>
+		<effect>Fully charges the current activated item upon first pickup.
+		If the current activated item has a recharge time of more than 1 bar, then it will grant 1 bar of charge whenever the item is activated.
+		If the current activated item has a recharge time of 1 bar, then it will change the item to have a timed recharge of 15 seconds. The recharging of the item only triggers so long as there are enemies present in the room in any fashion. Empty rooms do not cause recharging to start.
+		A fly or spider spawned in a cleared room will also cause recharging to start.</effect>
+	</id>
+
+	<id=230>
+		<name>Abaddon</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/1/1a/Abaddon_Icon.png?version=d8df35ae0d35d075ca25686d33496f2a</img>
+		<type>Passive</type>
+		<pool>Devil Room</pool>
+		<pickup>Evil + DMG up + fear shot</pickup>
+		<effect>+1.5 Damage.
+		+0.2 Speed.
+		Grants 6 Black Hearts.
+		Removes all red heart containers.
+		Adds a chance to shoot fear tears, causing enemies to run away from Isaac.</effect>
+	</id>
+
+	<id=188>
+		<name>Abel</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/e/e9/Abel_Icon.png?version=f4680de0b2207c3f220a8a9b6fd446ce</img>
+		<type>Passive</type>
+		<pool>Treasure Room, Golden Chest</pool>
+		<pickup>Mirrored buddy</pickup>
+		<effect>A familiar that mirrors the player's movements and shoots in the opposite direction.</effect>
+	</id>
+
+	<id=241>
+		<name>Anemic</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/5/5f/Anemic_Icon.png?version=50a212ead1118e3987e8026bc736fda6</img>
+		<type>Passive</type>
+		<pool>Treasure</pool>
+		<pickup>Toxic blood</pickup>
+		<effect>Upon taking damage, Isaac leaves a trail of creep that damages enemies until he leaves the room.
+		+5 Range</effect>
+	</id>
+
+	<id=161>
+		<name>Ankh</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/4/45/Ankh_Icon.png?version=dd9a3a635055cfca00b0f3813af3b170</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>Eternal life?</pickup>
+		<effect>Grants an extra life.
+		Isaac will respawn as ???</effect>
+	</id>
+
+	<id=222>
+		<name>Anti-Gravity</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/b/bc/Anti-Gravity_Icon.png?version=eb77055da2c1c6c650a141b05aa772d2</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>Antigravity tears + tears up</pickup>
+		<effect>+0.32 Tears up. This Tears up will subtract its value from Isaac's current tear rate, which allows Isaac's tear rate to go over the maximum rate of fire. This also means that the more tears upgrades Isaac gets, the more effective Anti-Gravity's Tears Up effect becomes.
+		Holding the fire buttons causes tears to hover in midair. When released, the tears will all shoot in the direction they were originally fired.
+		If the fire buttons are not released, the tears will fire on their own after a while.</effect>
+	</id>
+
+	<id=308>
+		<name>Aquarius</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/5/59/Aquarius_Icon.png?version=308c5a9032feb27e3f9fb91df3c60bc6</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>Trail of tears</pickup>
+		<effect>A trail of blue creep follows behind Isaac and damages enemies that walk over it.</effect>
+	</id>
+
+	<id=300>
+		<name>Aries</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/1/19/Aries_Icon.png?version=65372ed73fd6bb74af6364c8946ad963</img>
+		<type>Passive</type>
+		<charge>N/A</charge>
+		<pool>Treasure Room</pool>
+		<pickup>Ramming speed</pickup>
+		<effect>+0.25 speed.
+		Running into enemies while at a high speed will deal 18 points of damage. Does not prevent contact damage.</effect>
+	</id>
+
+	<id=207>
+		<name>Ball Of Bandages</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/7/7d/Ball_Of_Bandages_Icon.png?version=301423f2651944a1edf1b58882b769e2</img>
+		<type>Passive</type>
+		<pool>Horseman Pool</pool>
+		<pickup>Gotta lick 'em all!</pickup>
+		<effect>The first Ball of Bandages picked up will be an orbital that blocks enemy tears and does damage to enemies on contact.
+		The second Ball of Bandages that is picked up will give the orbital the ability to shoot charm tears.
+		The third Ball of Bandages will remove the familiar and spawn a Bandage Girl that will chase enemies while firing charm tears.
+		The fourth Ball of Bandages will make the Bandage Girl bigger and stronger. Unlocks Super Bandage.
+		A fifth Ball of Bandages will spawn another orbital like the first and any subsequent balls will repeat the cycle.</effect>
+	</id>
+
+	<id=231>
+		<name>Ball Of Tar</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/5/5c/Ball_Of_Tar_Icon.png?version=d937595e418e644800712fa2e6b624ee</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>Sticky feet...</pickup>
+		<effect>Adds a chance to shoot slowing tears, reducing speed of enemy movement and any projectile fired by them.
+		Isaac leaves a trail of slowing creep.</effect>
+	</id>
+
+	<id=63>
+		<name>The Battery</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/8/8b/The_Battery_Icon.png?version=e1f19050574926d759aa5500c8b18c0a</img>
+		<type>Passive</type>
+		<pool>Shop</pool>
+		<pickup>Stores energy</pickup>
+		<effect>Active items can store an extra level of charge, allowing them to be used twice in one room.
+		Extra charges appear in yellow over the normal charge meter.
+		Does not affect self-recharging activated items.</effect>
+	</id>
+
+	<id=28>
+		<name>The Belt</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/5/50/The_Belt_Icon.png?version=f9fd55f6503acd07234e0e4581fad44e</img>
+		<type>Passive</type>
+		<pool>Boss</pool>
+		<pickup>Speed up</pickup>
+		<effect>+0.3 Speed</effect>
+	</id>
+
+	<id=274>
+		<name>Best Bud</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/e/ef/Best_Bud_Icon.png?version=6fde1b3a21c41bf5915fdc4502675238</img>
+		<type>Passive</type>
+		<pool>Treasure</pool>
+		<pickup>Sworn protector</pickup>
+		<effect>When Isaac is hit, a white attack fly is spawned. The fly orbits Isaac at medium range, similar to Forever Alone, but with much higher speed. The fly despawns upon leaving the current room.
+		This item belongs to the Lord of the Flies set. Collecting three items from the set will transform Isaac into Lord of the Flies.</effect>
+	</id>
+
+	<id=247>
+		<name>BFFS!</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/a/ae/BFFS%21_Icon.png?version=4a7e34a239c2114ddfb7baf56f59127c</img>
+		<type>Passive</type>
+		<pool>Shop</pool>
+		<pickup>"Your Friends Rule!"</pickup>
+		<effect>Increases the size and doubles damage of familiars.</effect>
+	</id>
+
+	<id=272>
+		<name>BBF</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/4/42/BBF_Icon.png?version=0d09fea75fafba3900ffd039a850350a</img>
+		<type>Passive</type>
+		<charge>10 seconds</charge>
+		<pool>Treasure Room</pool>
+		<pickup>Big Beautiful Fly</pickup>
+		<effect>Spawns a familiar that flies around the room in a manner similar to the Boom Fly and explodes on contact with an enemy, dealing 70 damage to all enemies within its blast radius.
+		This item belongs to the Lord of the Flies set. Collecting three items from the set will transform Isaac into Lord of the Flies.</effect>
+	</id>
+
+	<id=279>
+		<name>Big Fan</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/9/9d/Big_Fan_Icon.png?version=7d9ce94eac44bc80eabb407390b429cd</img>
+		<type>Passive</type>
+		<pool>Treasure</pool>
+		<pickup>Fat protector</pickup>
+		<effect>Spawns a large orbital familiar that blocks enemy projectiles and deals small amounts of damage on contact.
+		This item belongs to the Lord of the Flies set. Collecting three items from the set will transform Isaac into Lord of the Flies.</effect>
+	</id>
+
+	<id=180>
+		<name>The Black Bean</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/1/14/The_Black_Bean_Icon.png?version=f093d932ac7178ccb37f77afccd40b22</img>
+		<type>Passive</type>
+		<pool>Treasure Room, s</pool>
+		<pickup>Toot on touch</pickup>
+		<effect>When taking damage, Isaac farts, causing poison damage to all enemies in range.</effect>
+	</id>
+
+	<id=260>
+		<name>Black Candle</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/b/b9/Black_Candle_Icon.png?version=fc9e372eea0fcfe413d2e3dc5e23ee25</img>
+		<type>Passive</type>
+		<pool>Shop, Curse Room</pool>
+		<pickup>Curse immunity + evil up</pickup>
+		<effect>Grants immunity to floor curses.
+		Will immediately remove any curses on the current floor.
+		Gives Isaac a black heart.
+		Increases chance for a Devil / Angel Room Door to open when a floor Boss is killed.</effect>
+	</id>
+
+	<id=226>
+		<name>Black Lotus</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/f/ff/Black_Lotus_Icon.png?version=1b93f63e516f1c4a37e64f6c6d2e84f0</img>
+		<type>Passive</type>
+		<pool>Secret Room</pool>
+		<pickup>HP up x3!</pickup>
+		<effect>Gives Isaac a regular Heart Container, a Soul Heart, and a Black Heart.</effect>
+	</id>
+
+	<id=119>
+		<name>Blood Bag</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/2/29/Blood_Bag_Icon.png?version=8e79af6b5b06bcaa49c10ee7c9b44461</img>
+		<type>Passive</type>
+		<pool>Blood Donation Machine</pool>
+		<pickup>HP up</pickup>
+		<effect>Gives the player a full heart container and restores 5 hearts.
+		+0.3 Speed Up (not applied until the next time Isaac's speed stat is updated).</effect>
+	</id>
+
+	<id=254>
+		<name>Blood Clot</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/9/94/Blood_Clot_Icon.png?version=41c28abce31acfbfae19a233f62d2476</img>
+		<type>Passive</type>
+		<pool>Boss, Destroying polyps</pool>
+		<pickup>DMG + range up</pickup>
+		<effect>The following stats are applied to tears from Isaac's left eye only.</effect>
+	</id>
+
+	<id=7>
+		<name>Blood Of The Martyr</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/2/2f/Blood_Of_The_Martyr_Icon.png?version=1702fa0491f0b2964d0e768bc7688139</img>
+		<type>Passive</type>
+		<pool>Treasure Room, Boss, Rush</pool>
+		<pickup>DMG up</pickup>
+		<effect>Increases Damage by 1, and turns Isaac's tears into blood tears.
+		Will cause The Book Of Belial to increase damage by a further +50% in addition to the +2 damage bonus.</effect>
+	</id>
+
+	<id=157>
+		<name>Bloody Lust</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/d/da/Bloody_Lust_Icon.png?version=70d641016c0c1369954b6efa9030d104</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>RAGE!</pickup>
+		<effect>Damage increases as Isaac receives damage. Damage increase stays for the whole floor, but resets upon entering a new floor.
+		The first three times Isaac is hit, his damage is increased by 0.5 each time.
+		The next three times Isaac is hit, his damage is increased by 1.66 each time.
+		Any damage taken past the sixth hit does not further increase damage.</effect>
+	</id>
+
+	<id=342>
+		<name>Blue Cap</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/a/ac/Blue_Cap_Icon.png?version=915584805f18264d1c5d1484b5fd70a7</img>
+		<type>Passive</type>
+		<pool>Boss</pool>
+		<pickup>HP + tears up + shot speed down</pickup>
+		<effect>Increases heart containers by 1.
+		+0.7 Tears
+		-16% Shot Speed</effect>
+	</id>
+
+	<id=246>
+		<name>Blue Map</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/0/07/Blue_Map_Icon.png?version=99a2cba7a284ae4eb1b35d83b9795b5b</img>
+		<type>Passive</type>
+		<pool>Shop, Beggar</pool>
+		<pickup>Secrets</pickup>
+		<effect>Displays secret and super secret rooms on the mini map.</effect>
+	</id>
+
+	<id=273>
+		<name>Bob's Brain</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/4/47/Bob%27s_Brain_Icon.png?version=2b4a8d5b85dd32b9120970e3d7f981a9</img>
+		<type>Passive</type>
+		<pool>Golden Chest Treasure Room</pool>
+		<pickup>Explosive thoughts</pickup>
+		<effect>This item is an attacking familiar, much like Little Chubby, that is launched in the direction the player is firing.
+		If it hits an enemy, it explodes hurting and poisoning monsters.
+		Bob's brain only explodes when hitting an enemy, and does not explode upon hitting a fire, poop, or wall.
+		The explosion can also hit Isaac, dealing a full heart of damage.
+		Once it explodes, it takes a few seconds to re-appear. It never launches immediately upon entering a room unless you release and then re-hit a tear-firing key, or until several seconds have passed.</effect>
+	</id>
+
+	<id=140>
+		<name>Bob's Curse</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/d/d7/Bob%27s_Curse_Icon.png?version=92678ebb539136d9da3d85d7d81f1e73</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>+5 poison bombs</pickup>
+		<effect>Gives 5 bombs.
+		Grants all of Isaac's bombs a poison effect.</effect>
+	</id>
+
+	<id=125>
+		<name>Bobby-Bomb</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/d/d3/Bobby-Bomb_Icon.png?version=66ce75ebce8c213f91ce5e450a7a3cfc</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>Homing bombs!</pickup>
+		<effect>Gives 5 bombs.
+		Bombs slowly home in on enemies.</effect>
+	</id>
+
+	<id=334>
+		<name>The Body</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/8/88/The_Body_Icon.png?version=033431ed9ebda7c7afc7ca7b45d9abe5</img>
+		<type>Passive</type>
+		<charge>N/A</charge>
+		<pool>Angel Room, PoolTreasure Room, Pool</pool>
+		<pickup>I feel all</pickup>
+		<effect>Adds three full Heart Containers.</effect>
+	</id>
+
+	<id=250>
+		<name>Bogo Bombs</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/7/72/Bogo_Bombs_Icon.png?version=1d25ba8b74bf82825d42b4acd1539c87</img>
+		<type>Passive</type>
+		<pool>Shop</pool>
+		<pickup>1+1 boom!</pickup>
+		<effect>All bombs become 1+1 bomb pickups</effect>
+	</id>
+
+	<id=131>
+		<name>Bomb Bag</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/e/e0/Bomb_Bag_Icon.png?version=77595d83b61af4e97c27a95bc272c507</img>
+		<type>Passive</type>
+		<pool>Treasure Room, Secret Room</pool>
+		<pickup>Gives bombs</pickup>
+		<effect>Isaac is followed by a small bag that drops a bomb every 3 rooms.
+		The bomb dropped can be a normal bomb, 1+1 Free, or a Troll Bomb.</effect>
+	</id>
+
+	<id=19>
+		<name>Boom!</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/b/b4/Boom%21_Icon.png?version=2cc42a9b806eb063924993bc0d3bb889</img>
+		<type>Passive</type>
+		<pool>Treasure Room, Can be dropped by Wrath</pool>
+		<pickup>10 bombs</pickup>
+		<effect>Gives 10 bombs. Also gives the character a lit fuse on their head.</effect>
+	</id>
+
+	<id=198>
+		<name>Box</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/4/4f/Box_Icon.png?version=f2955fb236204e0e925f3a70c442de2e</img>
+		<type>Passive</type>
+		<pool>Boss, Pool</pool>
+		<pickup>Stuff</pickup>
+		<effect>Spawns 1 of each item: 1 coin, 1 key, 1 bomb, 1 heart, 1 card, 1 pill, 1 trinket.</effect>
+	</id>
+
+	<id=25>
+		<name>Breakfast</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/7/71/Breakfast_Icon.png?version=b0c0a859f906b5adf8ee1fc23d53226c</img>
+		<type>Passive</type>
+		<pool>Boss, Beggar</pool>
+		<pickup>HP up</pickup>
+		<effect>Increases Health by 1.</effect>
+	</id>
+
+	<id=118>
+		<name>Brimstone</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/c/c8/Brimstone_Icon.png?version=c1af2e2ffb4b995ad5cf3167827dd6c6</img>
+		<type>Passive</type>
+		<pool>Devil Room</pool>
+		<pickup>Blood laser barrage</pickup>
+		<effect>Tears are replaced by a charged laser beam that pierces through all enemies and obstacles in its path and deals high damage. Can only be fired after a short charge-up period.</effect>
+	</id>
+
+	<id=337>
+		<name>Broken Watch</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/e/e1/Broken_Watch_Icon.png?version=6d0be2c4cb274f10a63bcaa3a5f574b1</img>
+		<type>Passive</type>
+		<pool>Shop</pool>
+		<pickup>I think it's broken</pickup>
+		<effect>Upon entering a room there is a chance to:</effect>
+	</id>
+
+	<id=8>
+		<name>Brother Bobby</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/3/33/Brother_Bobby_Icon.png?version=cc0bb83b620e6ec1f810d6fc345f0ef8</img>
+		<type>Passive</type>
+		<pool>Treasure Room, Devil Room</pool>
+		<pickup>Friends 'till the end</pickup>
+		<effect>A familiar that follows Isaac around shooting normal tears.</effect>
+	</id>
+
+	<id=129>
+		<name>Bucket Of Lard</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/9/96/Bucket_Of_Lard_Icon.png?version=06ce3e50d0401e1ed86cea7d1594f104</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>HP up</pickup>
+		<effect>Adds 2 empty heart containers
+		-0.2 Speed
+		Heals half a red heart</effect>
+	</id>
+
+	<id=144>
+		<name>Bum Friend</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/b/bf/Bum_Friend_Icon.png?version=69221456e3963f7ce6e95543ee5bbaf6</img>
+		<type>Passive</type>
+		<pool>Treasure Room, Shop</pool>
+		<pickup>He's greedy</pickup>
+		<effect>A portable Beggar who follows Isaac, picks up coins for himself, and occasionally drops Cards, Pickups, and Trinkets.</effect>
+	</id>
+
+	<id=209>
+		<name>Butt Bombs</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/b/b3/Butt_Bombs_Icon.png?version=423eb60931a09b595102b5ea6c590aa2</img>
+		<type>Passive</type>
+		<pool>Treasure</pool>
+		<pickup>Toxic blast +5 bombs</pickup>
+		<effect>Gives the player 5 bombs.
+		Bombs now cloud up the screen on detonation, briefly confusing and slightly damaging all enemies in the room.</effect>
+	</id>
+
+	<id=340>
+		<name>Caffeine Pill</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/4/49/Caffeine_Pill_Icon.png?version=9b23f36abe36f53b9d98a694aa1c09ab</img>
+		<type>Passive</type>
+		<pool>Boss</pool>
+		<pickup>Speed up + size down</pickup>
+		<effect>+0.3 Speed
+		Decreases Isaac's size, making him less likely to be hit.
+		Drops a random  pill</effect>
+	</id>
+
+	<id=319>
+		<name>Cain's Other Eye</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/f/fc/Cain%27s_Other_Eye_Icon.png?version=f5c4a76bcc63ff143c566c874e953386</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>Near sighted friend</pickup>
+		<effect>Spawns a familiar that floats slowly around the room on a zig-zag pattern similar to The Peeper and shoots normal tears in the same direction as Isaac.</effect>
+	</id>
+
+	<id=301>
+		<name>Cancer</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/4/43/Cancer_Icon.png?version=74bf7ba7ab3d8020434f570abd3b68d5</img>
+		<type>Passive</type>
+		<pool>Treasure</pool>
+		<pickup>HP up + you feel protected</pickup>
+		<effect>Adds three soul hearts.
+		Grants The Wafer effect for the current room upon taking damage.</effect>
+	</id>
+
+	<id=307>
+		<name>Capricorn</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/3/37/Capricorn_Icon.png?version=8ef01c12072368fee442b507e212e053</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>All stats up</pickup>
+		<effect>+1 Heart Container
+		+0.5 Damage
+		+0.16 Tears. This Tears up will subtract its value from Isaac's current tear rate, which allows Isaac's tear rate to go over the maximum rate of fire. This also means that the more tears upgrades Isaac gets, the more effective Capricorn's Tears Up effect becomes.
+		+0.1 Speed
+		+1.5 Range
+		Adds 1 key, coin, and bomb each.</effect>
+	</id>
+
+	<id=165>
+		<name>Cat-O-Nine-Tails</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/5/59/Cat-O-Nine-Tails_Icon.png?version=3fc6cc429de38c90b78c4497e790bcbe</img>
+		<type>Passive</type>
+		<pool>Boss, Room</pool>
+		<pickup>Shot speed + damage up</pickup>
+		<effect>+1 Damage.
+		+23% Shot Speed.</effect>
+	</id>
+
+	<id=162>
+		<name>Celtic Cross</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/5/57/Celtic_Cross_Icon.png?version=f8b0db72b05cde4bedae1d928d1b4c0d</img>
+		<type>Passive</type>
+		<pool>Angel Room, Treasure Room</pool>
+		<pickup>You feel blessed</pickup>
+		<effect>Grants a chance to trigger the Book Of Shadows effect upon taking damage, creating a shield that nullifies all types of damage for 7 seconds.</effect>
+	</id>
+
+	<id=216>
+		<name>Ceremonial Robes</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/7/7c/Ceremonial_Robes_Icon.png?version=a7be030c6037de248e8f6c31f0c9116a</img>
+		<type>Passive</type>
+		<pool>Curse Room, Devil Room</pool>
+		<pickup>Sin up</pickup>
+		<effect>+1 Damage
+		Adds 3 Black Hearts</effect>
+	</id>
+
+	<id=208>
+		<name>Champion Belt</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/2/25/Champion_Belt_Icon.png?version=e71c4c4296a5bd2517917aac34c75262</img>
+		<type>Passive</type>
+		<pool>Shop</pool>
+		<pickup>DMG + Challenge Up</pickup>
+		<effect>+1 Damage.
+		Increases chance for an enemy to spawn as a champion from 5% to 20%.</effect>
+	</id>
+
+	<id=62>
+		<name>Charm Of The Vampire</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/7/7d/Charm_Of_The_Vampire_Icon.png?version=937adacf96c506f264658b0539fb1fa9</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>Kills heal</pickup>
+		<effect>Heals the character half heart for every 13 monsters killed.</effect>
+	</id>
+
+	<id=154>
+		<name>Chemical Peel</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/b/ba/Chemical_Peel_Icon.png?version=6ad6a8e2205ff722fb87f2f110eec514</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>DMG up</pickup>
+		<effect>+2 flat Damage to tears fired from Isaac's left eye.</effect>
+	</id>
+
+	<id=69>
+		<name>Chocolate Milk</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/3/33/Chocolate_Milk_Icon.png?version=8822077f3bcd8e0e57a8d5300a7e9f79</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>Charge shots</pickup>
+		<effect>Grants charged tears that deal greater damage when fully charged.</effect>
+	</id>
+
+	<id=103>
+		<name>The Common Cold</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/6/6b/The_Common_Cold_Icon.png?version=6fcca2e9a53784ae03fb86dc8ae5a253</img>
+		<type>Passive</type>
+		<pool>Treasure</pool>
+		<pickup>Poison Damage</pickup>
+		<effect>Adds a chance to shoot poison tears, dealing damage over time when inflicted.</effect>
+	</id>
+
+	<id=21>
+		<name>The Compass</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/9/96/The_Compass_Icon.png?version=24beba4010ad9e9cc7898cab16e887b9</img>
+		<type>Passive</type>
+		<charge>N/A</charge>
+		<pool>Shop, Beggar</pool>
+		<pickup>The end is near</pickup>
+		<effect>Reveals all special rooms on the map, excluding secret rooms. The following rooms will be revealed if they exist: Boss Room, Mini-Boss Room, Treasure Room, Shop, Arcade, Challenge Room, Boss Challenge Room, Curse Room, Sacrifice Room, Library, Vault, Dice Room, Bedroom.
+		The Compass does not reveal the Secret Room or the Super Secret Room.</effect>
+	</id>
+
+	<id=241>
+		<name>Contract From Below</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/1/1b/Contract_From_Below_Icon.png?version=eb1cd9502d7f32c9ac8a6ef3df3d8311</img>
+		<type>Passive</type>
+		<pool>Devil Room, Curse Room, Demon Beggar</pool>
+		<pickup>Wealth... but at what cost?</pickup>
+		<effect>Doubles any Pickups earned for clearing a room.
+		Decreases the chance for room drops.</effect>
+	</id>
+
+	<id=224>
+		<name>Cricket's Body</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/1/10/Cricket%27s_Body_Icon.png?version=37a0bff38ff75a96fe1441f896e25ffa</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>Tears up + splash damage</pickup>
+		<effect>When tears hit an object or deplete their range, they spawn 4 smaller tears.
+		Each smaller tear deals half of Isaac's normal damage.</effect>
+	</id>
+
+	<id=4>
+		<name>Cricket's Head</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/5/54/Cricket%27s_Head_Icon.png?version=af8ebd159dbbdb194eb4eead0a8508f9</img>
+		<type>Passive</type>
+		<pool>Treasure Room, Golden Chest</pool>
+		<pickup>DMG up</pickup>
+		<effect>+0.5 Damage up.
+		x1.5 Damage multiplier.
+		Increases tear size and knockback.</effect>
+	</id>
+
+	<id=73>
+		<name>Cube Of Meat</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/c/cc/Cube_Of_Meat_Icon.png?version=bcbb21f7c448e906ba01f113dbf01979</img>
+		<type>Passive</type>
+		<pool>Harbinger</pool>
+		<pickup>Gotta meat 'em all!</pickup>
+		<effect>The first cube adds an orbital that blocks shots and deals damage.
+		The second cube gives the orbital the ability to shoot.
+		The third cube stops being an orbital and hunts nearby enemies.
+		The fourth cube increases size and damage of the Meat Boy.
+		The fifth and subsequent cubes will start the cycle again.</effect>
+	</id>
+
+	<id=48>
+		<name>Cupid's Arrow</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/9/98/Cupid%27s_Arrow_Icon.png?version=edae2020e05d56f3cde50ec177154b18</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>"Piercing Shots"</pickup>
+		<effect>Grants piercing tears that travel through enemies (but not obstacles) instead of breaking on impact with them.</effect>
+	</id>
+
+	<id=316>
+		<name>Cursed Eye</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/6/66/Cursed_Eye_Icon.png?version=621a74c8b9ab42b555580193172aa273</img>
+		<type>Passive</type>
+		<pool>Treasure Room, Secret Room</pool>
+		<pickup>Cursed charge shot</pickup>
+		<effect>Grants charged tears that can be fired in a tight burst of four.
+		Getting hit while charging will teleport Isaac into another room.</effect>
+	</id>
+
+	<id=170>
+		<name>Daddy Longlegs</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/e/ea/Daddy_Longlegs_Icon.png?version=ad13954b642d825e08416d3621be18b3</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>Daddy's love</pickup>
+		<effect>Daddy Long Legs' shadow follows Isaac and stomps on enemies for 40 damage. This is an especially powerful item, as it essentially provides massive sustained damage across an entire room where you may not be able to reach enemies easily, such as rooms filled with Horfs, or a boss room, allowing you to focus on other enemies while the stomp attacks clear out anything else.</effect>
+	</id>
+
+	<id=278>
+		<name>Dark Bum</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/b/bf/Dark_Bum_Icon.png?version=8fac47d5fd04d98cafb7de1438c33ea8</img>
+		<type>Passive</type>
+		<pool>Devil Room, Treasure Room</pool>
+		<pickup>He wants to take your life</pickup>
+		<effect>Spawns a familiar that follows Isaac around and collects red hearts. For every one-and-a-half red hearts collected, Dark Bum will generate one of the following:</effect>
+	</id>
+
+	<id=259>
+		<name>Dark Matter</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/8/85/Dark_Matter_Icon.png?version=9d3ecc146782966ec5aff17c5088c606</img>
+		<type>Passive</type>
+		<pool>Devil Room</pool>
+		<pickup>Fear shot</pickup>
+		<effect>+1 Damage.
+		Adds a chance to shoot fear tears, causing enemies to run away from Isaac.</effect>
+	</id>
+
+	<id=117>
+		<name>Dead Bird</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/1/13/Dead_Bird_Icon.png?version=b597af4a8ee27ac9d5d55c6771796ffc</img>
+		<type>Passive</type>
+		<pool>Treasure</pool>
+		<pickup>Protective buddy</pickup>
+		<effect>Taking damage summons a familiar that chases enemies in the current room.</effect>
+	</id>
+
+	<id=81>
+		<name>Dead Cat</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/2/27/Dead_Cat_Icon.png?version=bc2cae47812c7e4886feab6d36a976f4</img>
+		<type>Passive</type>
+		<pool>Curse Room, Devil Room, Red Chest</pool>
+		<pickup>9 lives</pickup>
+		<effect>Sets Isaac's health to 1.
+		Does not remove Soul Hearts or Black Hearts unless playing as ???.</effect>
+	</id>
+
+	<id=185>
+		<name>Dead Dove</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/1/1f/Dead_Dove_Icon.png?version=245ee3d54b3040861cd9a70c47582e77</img>
+		<type>Passive</type>
+		<pool>Angel Room</pool>
+		<pickup>Flight + spectral tears</pickup>
+		<effect>Grants spectral tears and flight.</effect>
+	</id>
+
+	<id=336>
+		<name>Dead Onion</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/c/cd/Dead_Onion_Icon.png?version=dffd6d301f4412629311f90679c6ef83</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>Toxic aura tears</pickup>
+		<effect>Grants piercing and spectral tears.
+		Increases tear size (without increasing damage)
+		-0.25 Range
+		-0.4 Shot Speed
+		-0.5 Shot Height</effect>
+	</id>
+
+	<id=237>
+		<name>Death's Touch</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/2/2c/Death%27s_Touch_Icon.png?version=0c85ae703875c19aa994f3510931a248</img>
+		<type>Passive</type>
+		<pool>Devil Room, Treasure Room</pool>
+		<pickup>Penetrative shot + damage up</pickup>
+		<effect>+1.5 Damage
+		-0.3 Tears
+		Grants piercing tears.
+		Increases tear size.
+		Cosmetic effect: Tears are replaced by Death's scythes.</effect>
+	</id>
+
+	<id=113>
+		<name>Demon Baby</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/a/a6/Demon_Baby_Icon.png?version=afa772d91c9a1f8387fc4720c5614531</img>
+		<type>Passive</type>
+		<pool>Devil Room, Treasure Room</pool>
+		<pickup>Auto-turret friend</pickup>
+		<effect>Spawns a familiar that follows Isaac and automatically fires at enemies in its range, dealing 3 damage per shot.</effect>
+	</id>
+
+	<id=24>
+		<name>Dessert</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/7/70/Dessert_Icon.png?version=6cd9771de4414586e7f3df1ee76c6264</img>
+		<type>Passive</type>
+		<charge>N/A</charge>
+		<pool>Boss, Room</pool>
+		<pickup>HP Up</pickup>
+		<effect>Increases health by one.</effect>
+	</id>
+
+	<id=23>
+		<name>Dinner</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/7/71/Dinner_Icon.png?version=592f8fdddb4ec583b26b73444c862d74</img>
+		<type>Passive</type>
+		<charge>N/A</charge>
+		<pool>Boss, Room</pool>
+		<pickup>HP Up</pickup>
+		<effect>Increases available heart containers by 1.</effect>
+	</id>
+
+	<id=57>
+		<name>Distant Admiration</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/7/71/Distant_Admiration_Icon.png?version=cb71d3c761598decc8fa441728b137dc</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>Attack Fly</pickup>
+		<effect>A red attack fly circles farther out than regular orbitals, but closer than Forever Alone. It deals more damage than Forever Alone.
+		This item belongs to the Lord of the Flies set. Collecting three items from the set will transform Isaac into Lord of the Flies.</effect>
+	</id>
+
+	<id=18>
+		<name>A Dollar</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/5/51/A_Dollar_Icon.png?version=6e82520fd7e0535664fd27e445ea22f9</img>
+		<type>Passive</type>
+		<pool>Slot Machine</pool>
+		<pickup>$$$</pickup>
+		<effect>Upon picking up A Dollar the player's penny count will be set to 99, the maximum possible amount of money.</effect>
+	</id>
+
+	<id=52>
+		<name>Dr. Fetus</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/7/78/Dr._Fetus_Icon.png?version=6a7a654d8361cba9ff53f810bc6648b8</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>???</pickup>
+		<effect>Tears are replaced by bombs that benefit from bomb-enhancing effects and slide a fixed range after being fired.  Each bomb deals 3 times the character's normal tear damage.</effect>
+	</id>
+
+	<id=265>
+		<name>Dry Baby</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/d/d5/Dry_Baby_Icon.png?version=bc3cdb329ab01f605f25f7a0db7dd3a7</img>
+		<type>Passive</type>
+		<pool>TreasureDestroying skulls</pool>
+		<pickup>Immortal Friend</pickup>
+		<effect>Spawns a familiar that follows Isaac around and blocks enemy projectiles. Upon blocking a shot it has a chance of triggering The Necronomicon effect, dealing 40 damage to all enemies in the room.</effect>
+	</id>
+
+	<id=236>
+		<name>E Coli</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/3/3b/E_Coli_Icon.png?version=a1500541d9dd59a3c383f2180a61eb5d</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>Turdy touch</pickup>
+		<effect>Enemies that touch Isaac are turned into Poop.</effect>
+	</id>
+
+	<id=168>
+		<name>Epic Fetus</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/d/d0/Epic_Fetus_Icon.png?version=78d664609f109dced7f3c7156760c4b6</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>On-demand air strike</pickup>
+		<effect>Isaac's tears are replaced with guided missiles, like those used by the Doctor's Remote.
+		Missiles deal 20 times Isaac's damage.</effect>
+	</id>
+
+	<id=310>
+		<name>Eve's Mascara</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/d/da/Eve%27s_Mascara_Icon.png?version=762fefff89251c1b3ee6044c2f53febd</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>Shot speed down + DMG up</pickup>
+		<effect>2x Damage multiplier
+		-0.5 Shot Speed. (Minimum Shot Speed is 0.6)
+		0.5x Tears multiplier. The multiplier doesn't set the value once, but instead is permanently applied (i.e. Isaac's Tear value will always be halved).</effect>
+	</id>
+
+	<id=240>
+		<name>Experimental Treatment</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/0/01/Experimental_Treatment_Icon.png?version=c1685e2d506fb0fb8553ae657d4fecb9</img>
+		<type>Passive</type>
+		<pool>Treasure Room, Boss, Demon Beggar</pool>
+		<pickup>All stats up, then shuffled</pickup>
+		<effect>Randomly increases and decreases some of the character's stats.  There will always be at least one stat increase and one decrease and the same stats can be increased/decreased multiple times.
+		There will never be more than three stat decreases.</effect>
+	</id>
+
+	<id=204>
+		<name>Fanny Pack</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/6/66/Fanny_Pack_Icon.png?version=7b310b56e211899e004ac3651cb77c34</img>
+		<type>Passive</type>
+		<pool>Shop, Beggar</pool>
+		<pickup>"It's filled with goodies!"</pickup>
+		<effect>Grants a chance to drop a random pickup when Isaac takes damage.</effect>
+	</id>
+
+	<id=179>
+		<name>Fate</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/a/a8/Fate_Icon.png?version=85e0c94856828212dfbea7a27ac44208</img>
+		<type>Passive</type>
+		<pool>Golden Chest</pool>
+		<pickup>Flight eternal</pickup>
+		<effect>Grants flight and one Eternal Heart.</effect>
+	</id>
+
+	<id=257>
+		<name>Fire Mind</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/4/46/Fire_Mind_Icon.png?version=08f90dab19183dc751c2c4da604ef187</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>Flaming tears</pickup>
+		<effect>Tears ignite on hit.
+		Tears have a chance to explode on hit, leaving behind fire.</effect>
+	</id>
+
+	<id=128>
+		<name>Forever Alone</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/d/d5/Forever_Alone_Icon.png?version=377e5ef936e90f20e572efdf9ed69990</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>Attack fly</pickup>
+		<effect>Spawns a blue attack fly orbital that orbits a long distance from Isaac and deals contact damage to enemies.
+		This item belongs to the Lord of the Flies set. Collecting three items from the set will transform Isaac into Lord of the Flies.</effect>
+	</id>
+
+	<id=318>
+		<name>Gemini</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/thumb/7/73/Gemini_%28Item%29_Icon.png/70px-Gemini_%28Item%29_Icon.png?version=d15716b05c3824d54b04e49643d5734d</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>Conjoined friend</pickup>
+		<effect>Gives Isaac a conjoined familiar, much like Gemini's small twin, Suture. It attacks only through short-ranged contact damage.</effect>
+	</id>
+
+	<id=163>
+		<name>Ghost Baby</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/f/f5/Ghost_Baby_Icon.png?version=883188c31d1bbe30a89894c2f790da2a</img>
+		<type>Passive</type>
+		<pool>Treasure Room, Devil Room, Destroying skulls</pool>
+		<pickup>Spectral buddy</pickup>
+		<effect>Spawns a familiar that follows Isaac around and fires spectral tears that deal 3.5 damage each.</effect>
+	</id>
+
+	<id=225>
+		<name>Gimpy</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/2/26/Gimpy_Icon.png?version=5dec49a38f0452229a81af27270a1dc0</img>
+		<type>Passive</type>
+		<pool>Curse Room, Devil Room</pool>
+		<pickup>Sweet Suffering</pickup>
+		<effect>Whenever Isaac takes damage, there is a chance that a Soul Heart or a Black Heart might spawn.
+		Enemies have a chance to drop half of a red heart after being killed.</effect>
+	</id>
+
+	<id=210>
+		<name>Gnawed Leaf</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/1/15/Gnawed_Leaf_Icon.png?version=38ffe4fa9a42b43d49a4a0aa356a051f</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>"Unbreakable"</pickup>
+		<effect>Upon pickup, Isaac gets a small brown ringtail.
+		After standing still and not pressing the move or attack buttons for one second, Isaac will turn into an invincible statue.
+		Using bombs and active items will remove the invincibility state as well.</effect>
+	</id>
+
+	<id=215>
+		<name>Goat Head</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/8/82/Goat_Head_Icon.png?version=9f99214a3c0bc6f873c3d48b1305b33b</img>
+		<type>Passive</type>
+		<pool>Curse Room, Devil Room, Red ChestGolden Chests</pool>
+		<pickup>He accepts your offering</pickup>
+		<effect>A Devil Room /Angel Room Door will always spawn after every boss fight, excluding the first floor and floors after Utero II/Womb II.</effect>
+	</id>
+
+	<id=331>
+		<name>Godhead</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/3/3b/Godhead_Icon.png?version=ad90361f17223a7b5fc33719890e3fb0</img>
+		<type>Passive</type>
+		<pool>Angel Room</pool>
+		<pickup>God tears</pickup>
+		<effect>+0.5 Damage.
+		-0.3 Tears.
+		+1.2 Range.
+		-30% Shot Speed.
+		+0.8 Shot Height.
+		Grants homing tears.
+		Tears gain a damaging aura.</effect>
+	</id>
+
+	<id=70>
+		<name>Growth Hormones</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/7/70/Growth_Hormones_Icon.png?version=20e56d13b8fb03df641d9c65550a41ba</img>
+		<type>Passive</type>
+		<pool>Boss, Room</pool>
+		<pickup>Speed + DMG up</pickup>
+		<effect>+1 Damage
+		+0.4 Speed</effect>
+	</id>
+
+	<id=112>
+		<name>Guardian Angel</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/f/f6/Guardian_Angel_Icon.png?version=d3ef87f2a018f8fce3acb78f7f2fb8b8</img>
+		<type>Passive</type>
+		<pool>Angel Room</pool>
+		<pickup>Extra protection</pickup>
+		<effect>Spawns an orbital familiar that blocks enemy projectiles and deals contact damage to enemies.
+		Increases the speed of all orbital familiars.</effect>
+	</id>
+
+	<id=206>
+		<name>Guillotine</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/0/0a/Guillotine_Icon.png?version=2a14db728065413e87a573f3fcfac43c</img>
+		<type>Passive</type>
+		<pool>Treasure Room, Pool</pool>
+		<pickup>An out-of-body experience</pickup>
+		<effect>+1.0 Damage up.
+		+0.16 Tears up.  This Tears up will subtract its value from Isaac's current tear rate, which allows Isaac's tear rate to go over the maximum rate of fire. This also means that the more tears upgrades Isaac gets, the more effective The Guillotine's Tears Up effect becomes.
+		Isaac's head rotates around his body and can be used to inflict damage similar to A Cube of Meat. Blocking tears with Isaac's head does not damage Isaac. His tears still originate from his head, so the line of fire is no longer constant while standing still.</effect>
+	</id>
+
+	<id=212>
+		<name>Guppy's Collar</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/1/13/Guppy%27s_Collar_Icon.png?version=dbf4462cd57ac7063d32b56fc1dcf835</img>
+		<type>Passive</type>
+		<pool>Curse Room, Devil Room</pool>
+		<pickup>Eternal Life?</pickup>
+		<effect>Isaac has a permanent 50% chance to resurrect on death.
+		Resurrection leaves Isaac at half a red heart.
+		Guppy's Collar takes priority over all other resurrection items when activated.</effect>
+	</id>
+
+	<id=187>
+		<name>Guppy's Hair Ball</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/e/e4/Guppy%27s_Hair_Ball_Icon.png?version=80c0387a3cdd1a2830889ad6a69a9442</img>
+		<type>Passive</type>
+		<pool>Devil Room</pool>
+		<pickup>Swing it</pickup>
+		<effect>Spawns a hair ball that loosely follows behind Isaac and can be swung like a flail, dealing contact damage to enemies and blocking projectiles.
+		The ball grows bigger by killing enemies, which increases its damage.
+		The size of the ball resets upon entering a new floor.</effect>
+	</id>
+
+	<id=134>
+		<name>Guppy's Tail</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/1/1d/Guppy%27s_Tail_Icon.png?version=22c4bd4d3628be7a2ad0ad999ab6115a</img>
+		<type>Passive</type>
+		<pool>Curse Room, Devil Room</pool>
+		<pickup>Cursed?</pickup>
+		<effect>Grants a 1/3 chance of replacing a pickup with a normal chest or gold chest, but also a 1/3 chance to replace it with nothing at all.
+		This item belongs to the Guppy set. Collecting three items from the set will transform Isaac into Guppy.</effect>
+	</id>
+
+	<id=156>
+		<name>Habit</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/d/da/Habit_Icon.png?version=f90403f72cab541484261ac4eaa66a3e</img>
+		<type>Passive</type>
+		<pool>Shop, Angel Room</pool>
+		<pickup>Item Martyr</pickup>
+		<effect>Isaac wears a habit.</effect>
+	</id>
+
+	<id=101>
+		<name>The Halo</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/2/20/The_Halo_Icon.png?version=4d2764eb550f7868b2fcc0e58650d628</img>
+		<type>Passive</type>
+		<pool>Boss, Room, Treasure Room, Angel Room</pool>
+		<pickup>All stats up</pickup>
+		<effect>+1 Heart Container
+		+0.3 Damage
+		+0.2 Tears
+		+0.25 Range
+		+0.3 Speed
+		+0.5 Tear Height</effect>
+	</id>
+
+	<id=10>
+		<name>Halo Of Flies</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/d/db/Halo_Of_Flies_Icon.png?version=f90dac41c98d1af48de6d492de1d5acc</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>Projectile protection</pickup>
+		<effect>Spawns two pretty fly familiars that block enemy shots and deal contact damage to enemies.</effect>
+	</id>
+
+	<id=167>
+		<name>Harlequin Baby</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/d/db/Harlequin_Baby_Icon.png?version=d9c8c532c8b6cd718814de89d1440876</img>
+		<type>Passive</type>
+		<pool>Treasure Room, Destroying polyps</pool>
+		<pickup>Double shot buddy</pickup>
+		<effect>Spawns a familiar that follows Isaac around and fires two tears at once in a V-pattern which deal 4 damage each.</effect>
+	</id>
+
+	<id=269>
+		<name>Headless Baby</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/7/7a/Headless_Baby_Icon.png?version=953e59af1daa035b289502209e3ac9db</img>
+		<type>Passive</type>
+		<pool>Treasure Room, Devil Room</pool>
+		<pickup>Bloody Friend</pickup>
+		<effect>Spawns a familiar that follows Isaac around, leaving a trail of red creep that damages enemies.</effect>
+	</id>
+
+	<id=248>
+		<name>Hive Mind</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/3/3e/Hive_Mind_Icon.png?version=ccd8f29942b747caf80d348c4a9483fe</img>
+		<type>Passive</type>
+		<pool>Shop</pool>
+		<pickup>Giant spiders and flies</pickup>
+		<effect>Increases the size of blue spiders and blue flies.
+		Doubles the damage dealt by blue spiders and blue flies.
+		This item belongs to the Lord of the Flies set. Collecting three items from the set will transform Isaac into Lord of the Flies.</effect>
+	</id>
+
+	<id=184>
+		<name>Holy Grail</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/c/c9/Holy_Grail_Icon.png?version=7309271de02c2d841abcce179f7d94fa</img>
+		<type>Passive</type>
+		<charge>N/A</charge>
+		<pool>Angel Room</pool>
+		<pickup>Flight + HP up</pickup>
+		<effect>Grants flight and one heart container.</effect>
+	</id>
+
+	<id=313>
+		<name>Holy Mantle</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/c/c7/Holy_Mantle_Icon.png?version=11331a07d6950243f6c76591c1a18736</img>
+		<type>Passive</type>
+		<charge>One room</charge>
+		<pool>Angel Room, Treasure Room</pool>
+		<pickup>Holy shield</pickup>
+		<effect>Protects Isaac from damage by blocking one hit.
+		Shield effect recharges the next room.</effect>
+	</id>
+
+	<id=178>
+		<name>Holy Water</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/5/51/Holy_Water_Icon.png?version=6a466101c1f59e87c2ef8c0c5a7c215e</img>
+		<type>Passive</type>
+		<pool>Angel Room, Treasure Room</pool>
+		<pickup>Splash!</pickup>
+		<effect>Holy Water will follow you as a companion. If you take damage it will break and leave a blue pool behind similar to the usable item Lemon Mishap. Holy water respawns in the next room.</effect>
+	</id>
+
+	<id=256>
+		<name>Hot Bombs</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/2/20/Hot_Bombs_Icon.png?version=4c2a59ecac3eefb40502ebc894483e90</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>Burning blast +5 bombs</pickup>
+		<effect>Isaac gains +5 bombs on pickup.
+		Placed bombs will leave behind fire that damages enemies on contact before disappearing.
+		Fire from a Hot Bomb doesn't damage Isaac.</effect>
+	</id>
+
+	<id=203>
+		<name>Humbling Bundle</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/5/5a/Humbling_Bundle_Icon.png?version=2122dfdac7d687d2ad5abf156d0fb4a8</img>
+		<type>Passive</type>
+		<pool>Shop</pool>
+		<pickup>1+1 free 4evar!</pickup>
+		<effect>Gives one extra pickup (1+1 version) of red hearts, pennies, bombs and Keys.
+		Does not work with soul hearts, black hearts, half red hearts, nickels, dimes, or drops from The Book Of Sin.</effect>
+	</id>
+
+	<id=242>
+		<name>Infamy</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/f/fd/Infamy_Icon.png?version=3eb42cec3a8991d0a31679074df1ec21</img>
+		<type>Passive</type>
+		<pool>Treasure Room, Golden Chest</pool>
+		<pickup>Damage Reduction</pickup>
+		<effect>Adds a high chance to block projectiles hitting Isaac from any direction. When effectively blocking a projectile, Isaac will briefly flash blue.</effect>
+	</id>
+
+	<id=148>
+		<name>Infestation</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/6/6a/Infestation_Icon.png?version=54f8a386d4a1d327c2460078ef472f4b</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>They grow inside.</pickup>
+		<effect>1-3 Blue Flies randomly spawn whenever Isaac takes damage.
+		This item belongs to the Lord of the Flies set. Collecting three items from the set will transform Isaac into Lord of the Flies.</effect>
+	</id>
+
+	<id=234>
+		<name>Infestation 2</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/4/4d/Infestation_2_Icon.png?version=acc2d13c2ca03abcc618d030512f3f10</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>Infestation shot</pickup>
+		<effect>Grants an infestation shot that spawns an allied blue spider from each enemy killed.</effect>
+	</id>
+
+	<id=2>
+		<name>The Inner Eye</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/b/b9/The_Inner_Eye_Icon.png?version=31f31a503a992bd8718be16981483894</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>Triple shot</pickup>
+		<effect>Grants a triple shot
+		Tears down: (Delay * 2.1) + 3</effect>
+	</id>
+
+	<id=149>
+		<name>Ipecac</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/f/f3/Ipecac_Icon.png?version=44e1d92b2f6c89c57097b33ee5a610e3</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>Explosive shots</pickup>
+		<effect>Replaces tears with explosive and poisoning projectiles fired in an arc.
+		Tears down - (Delay * 2) + 10
+		+13 Shot Height</effect>
+	</id>
+
+	<id=201>
+		<name>Iron Bar</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/8/84/Iron_Bar_Icon.png?version=526f7dddcbb461a48c3eafc865df92e7</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>Concussive tears</pickup>
+		<effect>+0.3 Damage
+		Adds a chance to shoot concussive tears, causing enemies to walk around randomly.</effect>
+	</id>
+
+	<id=276>
+		<name>Isaac's Heart</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/2/20/Isaac%27s_Heart_Icon.png?version=b351f2195c6ad8680d55cfade7209b5a</img>
+		<type>Passive</type>
+		<pool>Treasure Room, Pool</pool>
+		<pickup>Protect It</pickup>
+		<effect>Isaac himself is now immune to all damage.
+		Items that activate on contact with enemies retain their ability, allowing Isaac to use them without suffering collision damage.
+		Isaac can use Blood Banks and Demon Beggars without taking damage.
+		Curse Rooms don't deal damage when entered.</effect>
+	</id>
+
+	<id=197>
+		<name>Jesus Juice</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/9/98/Jesus_Juice_Icon.png?version=8af2539e8015285b343c49c147000b06</img>
+		<type>Passive</type>
+		<pool>Boss, Room</pool>
+		<pickup>Damage + range up</pickup>
+		<effect>+0.5 Damage up.
+		+0.25 Range up.
+		+0.5 Tear height.</effect>
+	</id>
+
+	<id=311>
+		<name>Judas' Shadow</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/f/f5/Judas%27_Shadow_Icon.png?version=44da582876bd73659bcf0182b8acdc56</img>
+		<type>Passive</type>
+		<pool>Devil Room, Treasure Room</pool>
+		<pickup>Sweet revenge</pickup>
+		<effect>Grants an extra life.
+		Upon death, Isaac resurrects as Black Judas.
+		Black Judas has a damage multiplier of 2.00 and a base speed of 1.1.</effect>
+	</id>
+
+	<id=266>
+		<name>Juicy Sack</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/1/13/Juicy_Sack_Icon.png?version=abcd799bb8e5ecaa75bf634127afab12</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>Sticky babies</pickup>
+		<effect>A Familiar that follows behind Isaac. It drips a trail of creep that slows enemies.
+		Spawns 1-2 Blue Spiders after every room.</effect>
+	</id>
+
+	<id=238>
+		<name>Key Piece 1</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/2/28/Key_Piece_1_Icon.png?version=ed64b208dd07761167cf37381b729e22</img>
+		<type>Passive</type>
+		<pool>Uriel</pool>
+		<pickup>???</pickup>
+		<effect>Combined with Key Piece 2, unlocks the golden gate in the starting room of The Chest and Dark Room to fight Mega Satan.</effect>
+	</id>
+
+	<id=239>
+		<name>Key Piece 2</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/5/5d/Key_Piece_2_Icon.png?version=92e8567b14a598eb1014a4ee8ed098eb</img>
+		<type>Passive</type>
+		<pool>Gabriel</pool>
+		<pickup>???</pickup>
+		<effect>Combined with Key Piece 1, unlocks the golden gate in the starting room of The Chest and Dark Room to fight Mega Satan.</effect>
+	</id>
+
+	<id=60>
+		<name>The Ladder</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/4/4a/The_Ladder_Icon.png?version=aeb12dbfeee10d2bdc567de674805f8d</img>
+		<type>Passive</type>
+		<charge>N/A</charge>
+		<pool>Shop</pool>
+		<pickup>Building bridges</pickup>
+		<effect>Allows Isaac to walk across gaps one square across by automatically placing a ladder between the two walkable sections. Enemies can not walk over the ladder.</effect>
+	</id>
+
+	<id=343>
+		<name>Latch Key</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/c/ca/Latch_Key_Icon.png?version=6792d73074e050f73f1836ed42d950d4</img>
+		<type>Passive</type>
+		<pool>Boss</pool>
+		<pickup>Luck up</pickup>
+		<effect>Luck up, gain 1 soul heart and spawns 2 keys.</effect>
+	</id>
+
+	<id=332>
+		<name>Lazarus' Rags</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/c/cf/Lazarus%27_Rags_Icon.png?version=d6a1796d64fe9afed90a9be37d021025</img>
+		<type>Passive</type>
+		<pool>Angel Room, Pool, Treasure Room, Pool</pool>
+		<pickup>Eternal Life?</pickup>
+		<effect>Grants an extra life and upon death respawns the character as Revived Lazarus. Unlike other items that cause the player to respawn, this item revives the player on the spot, as opposed to the previous room.</effect>
+	</id>
+
+	<id=270>
+		<name>Leech</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/5/52/Leech_Icon.png?version=1fe03addbcfc2a8b93231289864fab41</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>Blood sucker</pickup>
+		<effect>Upon pickup, spawns a crawling Leech that follows Isaac. If an enemy comes near, the Leech will attack and chase it. If an enemy is killed by the Leech, Isaac will be healed by half a heart.</effect>
+	</id>
+
+	<id=302>
+		<name>Leo</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/3/3d/Leo_Icon.png?version=06d16ab48f87ac6c78169d87c81b9ce0</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>Stompy</pickup>
+		<effect>Isaac can break obstacles by walking into them.</effect>
+	</id>
+
+	<id=304>
+		<name>Libra</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/a/a7/Libra_Icon.png?version=57ed1ee34b4097d96b1b80555d0a25ca</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>You Feel Balanced</pickup>
+		<effect>Gives Isaac 6 Coins, 6 Bombs and 6 Keys.
+		Continually balances Isaac's primary Attributes - Damage, Range, Tears, and Speed (has no effect on Luck or Shot Speed). This effect is NOT one time only - Libra will rebalance Isaac's attributes whenever they are changed by an item, effect, etc. including temporary effects such as the The Book Of Belial.</effect>
+	</id>
+
+	<id=275>
+		<name>Lil' Brimstone</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/b/b6/Lil%27_Brimstone_Icon.png?version=f3e3b8cb7c9a06484efd4b16783215df</img>
+		<type>Passive</type>
+		<pool>Treasure Room, Devil Room</pool>
+		<pickup>Evil Friend</pickup>
+		<effect>Spawns a familiar that fires a mini-Brimstone beam. It needs to be charged up; it will not fire if Isaac is shooting a steady stream of tears.
+		Unlike Brimstone, Lil' Brimstone can start charging up a beam while still firing the previous one.</effect>
+	</id>
+
+	<id=277>
+		<name>Lil' Haunt</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/e/e9/Lil%27_Haunt_Icon.png?version=2cf2ead5844f6c28312d4248635adf8e</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>Fear him</pickup>
+		<effect>A familiar that damages enemies by chasing them as well as inducing the fear effect.</effect>
+	</id>
+
+	<id=252>
+		<name>Little Baggy</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/8/88/Little_Baggy_Icon.png?version=01df2958593e1ba1374c001a0055ccd6</img>
+		<type>Passive</type>
+		<pool>Shop</pool>
+		<pickup>Extra pill room</pickup>
+		<effect>Allows Isaac to carry two pills. Tap the Drop button to cycle through the two pills.
+		Spawns a random pill.
+		Changes all Tarot card and rune drops into pills.
+		Any Tarot card or rune held when picking this item up will change into a pill.</effect>
+	</id>
+
+	<id=96>
+		<name>Little Chad</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/1/1b/Little_C.H.A.D._Icon.png?version=1fcc9caab309192dca35579391b05161</img>
+		<type>Passive</type>
+		<pool>Treasure Room, Dropped by C.H.A.D.</pool>
+		<pickup>Gives kisses</pickup>
+		<effect>Drops half a red heart every two rooms.</effect>
+	</id>
+
+	<id=88>
+		<name>Little Chubby</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/6/61/Little_Chubby_Icon.png?version=562d27a0cedf690b9291b2232fa1b797</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>Attack Buddy</pickup>
+		<effect>Adds a Familiar that follows Isaac.</effect>
+	</id>
+
+	<id=99>
+		<name>Little Gish</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/e/e8/Little_Gish_Icon.png?version=bc09ce77a57bb2ef6f6593d50ad0a38a</img>
+		<type>Passive</type>
+		<pool>Treasure Room, Dropped by Gish</pool>
+		<pickup>Sticky friend</pickup>
+		<effect>Spawns a familiar that follows Isaac around and fires slowing tears.</effect>
+	</id>
+
+	<id=100>
+		<name>Little Steven</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/3/3c/Little_Steven_Icon.png?version=3e7afe9c4ff2d8653daf381a7866961e</img>
+		<type>Passive</type>
+		<pool>Treasure Room, Boss, Dropped by Steven</pool>
+		<pickup>Psychic friend</pickup>
+		<effect>Spawns a familiar that follows Isaac around and fires homing tears.</effect>
+	</id>
+
+	<id=87>
+		<name>Loki's Horns</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/2/2c/Loki%27s_Horns_Icon.png?version=be35f11a683bd4e17a3de5f613b8b7e7</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>Cross Tears</pickup>
+		<effect>Chance to shoot tears four ways.
+		Chance depends on the Luck stat, and goes up to 100% at 7 Luck.</effect>
+	</id>
+
+	<id=82>
+		<name>Lord Of The Pit</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/d/d9/Lord_Of_The_Pit_Icon.png?version=85b075c923a5ccf5d07eec973333c355</img>
+		<type>Passive</type>
+		<pool>Devil Room</pool>
+		<pickup>Demon wings</pickup>
+		<effect>Grants Isaac Flight.
+		+0.3 Speed Up (not applied until the next time Isaac's speed stat is updated).</effect>
+	</id>
+
+	<id=213>
+		<name>Lost Contact</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/6/6b/Lost_Contact_Icon.png?version=3fc486acde8e46d072b62f561cdeebeb</img>
+		<type>Passive</type>
+		<pool>Treasure Room, Secret Room</pool>
+		<pickup>Shielded tears</pickup>
+		<effect>Gives Isaac's tears a shield surrounding them, allowing the player to block enemy shots.</effect>
+	</id>
+
+	<id=46>
+		<name>Lucky Foot</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/8/8e/Lucky_Foot_Icon.png?version=15dcc588a457697a2e003d533dd8a113</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>Luck Up</pickup>
+		<effect>+1 Luck.
+		Increases chances of winning at Shell Game Beggar and Fortune Teller (independent of luck stat).</effect>
+	</id>
+
+	<id=329>
+		<name>The Ludovico Technique</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/0/05/The_Ludovico_Technique_Icon.png?version=bdbd9306da7d4dc901ea3d00a20c99d0</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>Controlled Tears</pickup>
+		<effect>Instead of firing tears, Isaac controls one floating tear that hovers over obstacles. This tear deals constant damage when held in place over an enemy.</effect>
+	</id>
+
+	<id=132>
+		<name>A Lump Of Coal</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/a/a6/A_Lump_Of_Coal_Icon.png?version=824889dc2f6ce934a12b3dd595ae8067</img>
+		<type>Passive</type>
+		<pool>Krampus</pool>
+		<pickup>My Xmas Present</pickup>
+		<effect>Tears gain a flat damage bonus based on how far they travel.  This starts at +0 and increases to about +6 at a standard room's width (but can go higher).</effect>
+	</id>
+
+	<id=22>
+		<name>Lunch</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/6/66/Lunch_Icon.png?version=88dd27cb62c4ae8cfec08dfad33520bf</img>
+		<type>Passive</type>
+		<pool>Boss, Room</pool>
+		<pickup>HP Up</pickup>
+		<effect>Grants one red heart container.</effect>
+	</id>
+
+	<id=312>
+		<name>Maggy's Bow</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/6/6c/Maggy%27s_Bow_Icon.png?version=8380d5c80736c12a4053946b4a580aaf</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>HP up + you feel healthy</pickup>
+		<effect>Adds one heart container.
+		Red Hearts heal double their value. A red half-heart replenishes one red heart of Isaac's health, a red full-heart replenishes two red hearts of Isaac's health, and a 1+1 free heart replenishes four red hearts of Isaac's health.</effect>
+	</id>
+
+	<id=194>
+		<name>Magic 8 Ball</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/b/be/Magic_8_Ball_Icon.png?version=069c52a8b09aa0d3588e5f1ef407e92a</img>
+		<type>Passive</type>
+		<pool>Boss, Pool</pool>
+		<pickup>Shot speed up</pickup>
+		<effect>+16% Shot speed.
+		Drops a random tarot card on the ground nearby.</effect>
+	</id>
+
+	<id=12>
+		<name>Magic Mushroom</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/9/94/Magic_Mushroom_Icon.png?version=14700455249b36f13c583e64f905c6b8</img>
+		<type>Passive</type>
+		<pool>Boss, Room,  Treasure Room, Destroying mushrooms</pool>
+		<pickup>All Stats Up!</pickup>
+		<effect>+1 Health Up.
+		+0.3 Damage Up.
+		x1.5 Damage Multiplier.
+		+5.25 Range Up.
+		+0.3 Speed Up.
+		+0.5 Tear Height.
+		Isaac grows in size.
+		Fully restores all red heart containers.</effect>
+	</id>
+
+	<id=253>
+		<name>Magic Scab</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/f/f2/Magic_Scab_Icon.png?version=9b3f35c467d058661e13a6f1e6c02404</img>
+		<type>Passive</type>
+		<pool>Boss</pool>
+		<pickup>HP + Luck up</pickup>
+		<effect>Grants Isaac a full heart container.
+		Increases Luck.</effect>
+	</id>
+
+	<id=53>
+		<name>Magneto</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/0/02/Magneto_Icon.png?version=efed8474d297848057efc88318c87bbd</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>Item snatcher</pickup>
+		<effect>Drops ( e.g. hearts, coins, keys, bombs, etc. ) are attracted to Isaac.
+		The attraction enables the item to pass/fly over pits or rocks, but not through Key Blocks.
+		A few enemies (like the Horf) are drawn toward Isaac as well.</effect>
+	</id>
+
+	<id=79>
+		<name>The Mark</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/b/b3/The_Mark_Icon.png?version=b728c272898436828dc6d9c5a83f7abc</img>
+		<type>Passive</type>
+		<pool>Curse Room, Devil Room</pool>
+		<pickup>DMG up</pickup>
+		<effect>+1 Damage up.
+		+0.2 Speed up.
+		Grants one soul heart.</effect>
+	</id>
+
+	<id=344>
+		<name>Match Book</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/b/b4/Match_Book_Icon.png?version=5577c90fc8b1105ec56f5703197a194c</img>
+		<type>Passive</type>
+		<pool>Boss, Room</pool>
+		<pickup>Evil up</pickup>
+		<effect>Spawns two or three bomb pickups near Isaac.
+		Grants Isaac one Black Heart.</effect>
+	</id>
+
+	<id=193>
+		<name>MEAT!</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/e/e0/MEAT%21_Icon.png?version=420067628109bae99798bb268aa36afa</img>
+		<type>Passive</type>
+		<pool>Boss</pool>
+		<pickup>DMG + HP up</pickup>
+		<effect>Grants Isaac one full heart container.
+		+0.3 Damage up.</effect>
+	</id>
+
+	<id=202>
+		<name>Midas' Touch</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/4/42/Midas%27_Touch_Icon.png?version=0c61243dea2533e9f83869d5a58a3f12</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>Golden touch</pickup>
+		<effect>Upon contact with enemies, deals damage equal to the number of coins Isaac has.
+		Freezes and turns enemies into gold upon contact with Isaac.
+		Enemies killed while in this state will drop 1-4 pennies.</effect>
+	</id>
+
+	<id=333>
+		<name>The Mind</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/f/f9/The_Mind_Icon.png?version=5ccbe0b176bbe290c493204ab62f7ac8</img>
+		<type>Passive</type>
+		<charge>N/A</charge>
+		<pool>Treasure Room, Angel Room</pool>
+		<pickup>I know all</pickup>
+		<effect>Grants the combined effects of the Blue Map, Treasure Map and The Compass, revealing the floor layout and all special rooms, including Secret Rooms and Super Secret Rooms.</effect>
+	</id>
+
+	<id=71>
+		<name>Mini Mush</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/0/02/Mini_Mush_Icon.png?version=b6d2ab68caa28d0ffbd0b2cb0ad8f004</img>
+		<type>Passive</type>
+		<pool>Treasure Room, Secret Room, Destroying mushrooms</pool>
+		<pickup>Speed + range up</pickup>
+		<effect>+0.3 Speed.
+		-4.25 Range.
+		+1.5 Shot Height.
+		Decreases Isaac's size, making him less likely to be hit.</effect>
+	</id>
+
+	<id=262>
+		<name>Missing Page 2</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/1/17/Missing_Page_2_Icon.png?version=5c5c0385d968393b34431cd7f4b5f4c3</img>
+		<type>Passive</type>
+		<pool>Devil Room, Secret Room</pool>
+		<pickup>Evil up. Your enemies will pay!</pickup>
+		<effect>Adds 1 black heart.
+		Activates The Necronomicon effect upon taking damage if the total sum of Isaac's red hearts, soul hearts, and black hearts is under one and half heart.</effect>
+	</id>
+
+	<id=258>
+		<name>Missing No.</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/b/b2/Missing_No._Icon.png?version=92c2b8eb470aeb0ed174c74ef4956c0e</img>
+		<type>Passive</type>
+		<pool>Secret Room</pool>
+		<pickup>Syntax error</pickup>
+		<effect>Randomizes passive items and stats on pickup and at the start of every floor.
+		Does not affect trinkets, cards, pills, or active items.
+		Does not remove transformations.</effect>
+	</id>
+
+	<id=173>
+		<name>Mitre</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/3/3c/Mitre_Icon.png?version=1ef7b7397b40e83092cd3efa241dd76f</img>
+		<type>Passive</type>
+		<pool>Treasure Room, Angel Room</pool>
+		<pickup>You Feel Blessed</pickup>
+		<effect>Grants a chance(around 50%) of converting any red hearts pickups into soul hearts instead.</effect>
+	</id>
+
+	<id=195>
+		<name>Mom's Coin Purse</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/b/b1/Mom%27s_Coin_Purse_Icon.png?version=5887bc2d64701a8574088f6dda40548c</img>
+		<type>Passive</type>
+		<pool>Shop, Boss, Beggar, Demon Beggar, Dungeon</pool>
+		<pickup>What's all this...?</pickup>
+		<effect>Upon pickup, four random pills will spawn around Isaac.</effect>
+	</id>
+
+	<id=110>
+		<name>Mom's Contacts</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/a/ad/Mom%27s_Contacts_Icon.png?version=e66a9691f426ec43778908fdd659d89f</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>Freeze effect</pickup>
+		<effect>Adds a chance to shoot petrifying tears, which stop enemies in place and prevent them from moving or attacking.
+		+0.25 Range up (not applied until the next time Isaac's range stat is updated).
+		+0.5 Tear Height (not applied until the next time Isaac's tear height is updated).</effect>
+	</id>
+
+	<id=55>
+		<name>Mom's Eye</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/f/f2/Mom%27s_Eye_Icon.png?version=17d6afbd717e1e4d5a7d6806c1de4801</img>
+		<type>Passive</type>
+		<pool>Dungeon, Treasure</pool>
+		<pickup>Eye in the back of your head</pickup>
+		<effect>Gives Isaac a chance to shoot a tear out of an eye on the back of his head.
+		The chance to shoot a second tear depends on the Luck stat, and goes up to 100% at 2 Luck.</effect>
+	</id>
+
+	<id=200>
+		<name>Mom's Eyeshadow</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/9/95/Mom%27s_Eyeshadow_Icon.png?version=49ba6427a37e7e8389970b287238bf1f</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>Charm tears</pickup>
+		<effect>Gives a chance to shoot charming tears, causing enemies to temporarily fight on Isaac's side.</effect>
+	</id>
+
+	<id=30>
+		<name>Mom's Heels</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/4/4c/Mom%27s_Heels_Icon.png?version=24f32d721134ee979359fa0581d5fcc0</img>
+		<type>Passive</type>
+		<pool>Boss</pool>
+		<pickup>Range up</pickup>
+		<effect>+5.25 Range.
+		+0.5 Shot Height.</effect>
+	</id>
+
+	<id=199>
+		<name>Mom's Key</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/1/15/Mom%27s_Key_Icon.png?version=48d7bca9affedd1dcc995f185be50557</img>
+		<type>Passive</type>
+		<pool>Shop, Dungeon</pool>
+		<pickup>Less is now more +2 keys</pickup>
+		<effect>Gives Isaac two keys.
+		Generates additional pickups from chests.</effect>
+	</id>
+
+	<id=114>
+		<name>Mom's Knife</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/b/bf/Mom%27s_Knife_Icon.png?version=c3d70e78cb6d1b22e8a445e079e4bd9a</img>
+		<type>Passive</type>
+		<pool>Devil Room, Treasure Room</pool>
+		<pickup>Stab stab stab</pickup>
+		<effect>Isaac's tears are replaced by a knife that pierces enemies and can travel through obstacles. Holding down the fire button increases its range and power.
+		The knife can hurt enemies while Isaac is holding it.</effect>
+	</id>
+
+	<id=31>
+		<name>Mom's Lipstick</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/d/dd/Mom%27s_Lipstick_Icon.png?version=f511293900ec8e906dee2db6e325202f</img>
+		<type>Passive</type>
+		<pool>Boss</pool>
+		<pickup>Range up</pickup>
+		<effect>+5.25 Range.
+		+0.5 Shot Height.</effect>
+	</id>
+
+	<id=228>
+		<name>Mom's Perfume</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/d/dd/Mom%27s_Perfume_Icon.png?version=827e0285cc2ce0ea7fa927ca061efdf0</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>Fear shot</pickup>
+		<effect>Adds a chance to shoot fear tears, causing enemies to run away from Isaac.
+		+0.16 Tears. This Tears up will subtract its value from Isaac's current tear rate, which allows Isaac's tear rate to go over the maximum rate of fire. This also means that the more tears upgrades Isaac gets, the more effective Mom's Perfume's Tears Up effect becomes.</effect>
+	</id>
+
+	<id=139>
+		<name>Mom's Purse</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/b/bf/Mom%27s_Purse_Icon.png?version=f332e8c35d65a9ce051cf17fcc71b1bf</img>
+		<type>Passive</type>
+		<pool>Shop, Dungeon</pool>
+		<pickup>More trinket room</pickup>
+		<effect>Allows two different trinkets to be carried at once.</effect>
+	</id>
+
+	<id=29>
+		<name>Mom's Underwear</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/9/94/Mom%27s_Underwear_Icon.png?version=b3a6820ad571af6c8e5f40476d477266</img>
+		<type>Passive</type>
+		<pool>Boss, Dungeon</pool>
+		<pickup>Range up</pickup>
+		<effect>+5.25 Range.
+		+0.5 Shot Height.</effect>
+	</id>
+
+	<id=217>
+		<name>Mom's Wig</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/c/c0/Mom%27s_Wig_Icon.png?version=56f947d3d9b6e16bac533a6c34f35182</img>
+		<type>Passive</type>
+		<charge>N/A</charge>
+		<pool>Treasure Room</pool>
+		<pickup>You feel itchy...</pickup>
+		<effect>Allows Isaac to spawn friendly spiders when firing tears.
+		Heals Isaac for 1 red heart upon pickup.</effect>
+	</id>
+
+	<id=109>
+		<name>Money %3D Power</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/e/e7/Money_%3D_Power_Icon.png?version=5b44a1fc288236514b18e0c93184bf98</img>
+		<type>Passive</type>
+		<pool>Treasure</pool>
+		<pickup>"$$$ = DMG"</pickup>
+		<effect>Adds 0.04 points of damage for every coin Isaac has.</effect>
+	</id>
+
+	<id=322>
+		<name>Mongo Baby</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/e/ef/Mongo_Baby_Icon.png?version=9e2da47e235c13e52d6eb9021e307eb8</img>
+		<type>Passive</type>
+		<pool>Treasure Room, Pool</pool>
+		<pickup>Mongo Friend</pickup>
+		<effect>When picked up, summons a Familiar that copies the tears of another familiar following Isaac.
+		If no familiars are present, Mongo Baby will fire normal tears.
+		Fires at twice the normal rate for a familiar.</effect>
+	</id>
+
+	<id=229>
+		<name>Monstro's Lung</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/4/49/Monstro%27s_Lung_Icon.png?version=f845d1eb8b599fa53d7c3bea4430ad10</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>Charged Attack</pickup>
+		<effect>Grants a charged shot that fires multiple tears in the same fashion as Monstro.
+		Increases damage.</effect>
+	</id>
+
+	<id=106>
+		<name>Mr. Mega</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/2/27/Mr._Mega_Icon.png?version=b260cf5c20c0e449334bd6665aa4aa9c</img>
+		<type>Passive</type>
+		<pool>Treasure Room, Secret Room, Dropped by Super Wrath</pool>
+		<pickup>Blast damage</pickup>
+		<effect>Gives 5 bombs.
+		Gives all of Isaac's bombs increased damage and blast radius.
+		When bombs explode, the screen will shake.</effect>
+	</id>
+
+	<id=151>
+		<name>The Mulligan</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/1/1c/The_Mulligan_Icon.png?version=857e16a2be01ea5971f47178d2c8d4b9</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>"They grow inside"</pickup>
+		<effect>Grants an infestation shot with a 1/6 chance of spawning allied blue flies when tears hit an enemy.
+		This item belongs to the Lord of the Flies set. Collecting three items from the set will transform Isaac into Lord of the Flies.</effect>
+	</id>
+
+	<id=153>
+		<name>Mutant Spider</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/6/6e/Mutant_Spider_Icon.png?version=00bb971ce5c3a0e95c048aca7599b280</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>Quad shot</pickup>
+		<effect>Grants a quadruple shot
+		Tears down: (Delay * 2.1) + 3</effect>
+	</id>
+
+	<id=5>
+		<name>My Reflection</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/b/b7/My_Reflection_Icon.png?version=f267103dd38dd200f0b3b3bec943350a</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>Boomerang tears</pickup>
+		<effect>Isaac's tears travel a short distance, then reverse direction and return to Isaac. The tears are constantly pulled towards Isaac; if Isaac moves after shooting, the tears will always return to him.
+		+1.5 Range.
+		x1.6 Shot Speed multiplier.
+		+1 Shot Height.</effect>
+	</id>
+
+	<id=317>
+		<name>Mysterious Liquid</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/3/3a/Mysterious_Liquid_Icon.png?version=54d32f47888a4d9581228bbc63b18981</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>Toxic Splash Damage</pickup>
+		<effect>Tears leave a small, short lasting pool of creep upon hitting an enemy or when their range is depleted.</effect>
+	</id>
+
+	<id=271>
+		<name>Mystery Sack</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/c/c0/Mystery_Sack_Icon.png?version=df90bc066268eb34058e5f3cf4ea9dea</img>
+		<type>Passive</type>
+		<pool>Treasure Room, Secret Room, Beggar</pool>
+		<pickup>?</pickup>
+		<effect>Spawns a familiar that follows Isaac around and has a chance to drop a heart, coin, bomb, or key after clearing a room.</effect>
+	</id>
+
+	<id=6>
+		<name>Number One</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/4/43/Number_One_Icon.png?version=e92d2269e32cbf4c4dcd891f6ff93810</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>Tears up</pickup>
+		<effect>Tears are fired from Isaac's lower body rather than his head. Range is heavily decreased, but the fire rate is majorly increased. Also turns Isaac's "tears" yellow.</effect>
+	</id>
+
+	<id=121>
+		<name>Odd Mushroom (Large)</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/6/69/Odd_Mushroom_%28Large%29_Icon.png?version=a75a02d8b96e2bac812b7ab6f949781d</img>
+		<type>Passive</type>
+		<pool>Treasure Room, Secret Room</pool>
+		<pickup>DMG up</pickup>
+		<effect>+1 Empty Heart Container
+		+0.3 Damage
+		+0.25 Range
+		+0.5 Shot height
+		-0.1 Speed</effect>
+	</id>
+
+	<id=120>
+		<name>Odd Mushroom (Thin)</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/3/36/Odd_Mushroom_%28Thin%29_Icon.png?version=c4dc67888e17bfc9c66b70dd0209be3a</img>
+		<type>Passive</type>
+		<pool>Treasure Room, Secret Room</pool>
+		<pickup>Fire rate up</pickup>
+		<effect>+1.7 Tears.
+		+0.3 Speed.
+		Reduces damage using the following formula: (Damage Ups from other items * 0.9) - 0.4.</effect>
+	</id>
+
+	<id=219>
+		<name>Old Bandage</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/a/af/Old_Bandage_Icon.png?version=ec94938af387f3ab7825d401a71d1ded</img>
+		<type>Passive</type>
+		<pool>Boss</pool>
+		<pickup>HP up</pickup>
+		<effect>Grants the player an empty heart container.
+		Whenever Isaac takes damage there's a chance that a Red Heart may drop.</effect>
+	</id>
+
+	<id=115>
+		<name>Ouija Board</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/e/e5/Ouija_Board_Icon.png?version=6bf308aa1c9b474bca0ec627cf80fee4</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>Spectral tears</pickup>
+		<effect>Grants spectral tears that travel through obstacles (but not enemies) instead of breaking on impact with them.</effect>
+	</id>
+
+	<id=80>
+		<name>The Pact</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/3/3a/The_Pact_Icon.png?version=3c2369e7fc10567417df6fd92a0d29a9</img>
+		<type>Passive</type>
+		<pool>Curse Room, Devil Room</pool>
+		<pickup>DMG + Tears UP</pickup>
+		<effect>+0.5 Damage.
+		+0.7 Tears.
+		Grants two Soul Hearts upon Pickup.</effect>
+	</id>
+
+	<id=141>
+		<name>Pageant Boy</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/1/16/Pageant_Boy_Icon.png?version=9d9dd26baff8391e77571b8c9a5b74eb</img>
+		<type>Passive</type>
+		<pool>Boss</pool>
+		<pickup>Ultimate grand supreme</pickup>
+		<effect>Upon pickup, seven random coins spawn around Isaac.</effect>
+	</id>
+
+	<id=104>
+		<name>The Parasite</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/7/7d/The_Parasite_Icon.png?version=ea43fe943a26dd0b98d911bc9a79d3e3</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>Split Shot</pickup>
+		<effect>Tears turn sickly brown and split on impact with walls or enemies.
+		Split tears deal 25% of your normal damage each.  (Multiple split tears can hit the same enemy.)</effect>
+	</id>
+
+	<id=155>
+		<name>The Peeper</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/3/39/The_Peeper_Icon.png?version=80b916fff3f2ec464d046c9802d12d32</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>Plop!</pickup>
+		<effect>Spawns a familiar that floats slowly around the room on a zig-zag pattern similar to boom flies damaging enemies it passes through.</effect>
+	</id>
+
+	<id=51>
+		<name>Pentagram</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/9/95/Pentagram_Icon.png?version=51ecb004467d67182f66eca69f09556b</img>
+		<type>Passive</type>
+		<pool>Boss, Curse Room, Devil Room</pool>
+		<pickup>DMG up</pickup>
+		<effect>+1 Damage up.
+		Increases chance for a Devil / Angel Room Door to open when a floor Boss is killed.</effect>
+	</id>
+
+	<id=75>
+		<name>PHD</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/e/ec/PHD_Icon.png?version=81c9b446cb91f373b397f8b0060b2252</img>
+		<type>Passive</type>
+		<pool>Shop, Treasure</pool>
+		<pickup>Better pills</pickup>
+		<effect>Identifies all pills upon pickup.
+		Converts all "stat down" pills into "stat up" pills, Bad Trip into Balls of Steel, and Amnesia into I Can See Forever.
+		Spawns a pill.
+		Replenishes 2 red hearts.
+		Randomly adds 0, 1, or 2 coins to the payout every time you use the Blood Donation Machine or IV Bag.</effect>
+	</id>
+
+	<id=309>
+		<name>Pisces</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/8/89/Pisces_Icon.png?version=f984098b1665ed56508a403c6eb9873f</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>Tears up + knock-back shots</pickup>
+		<effect>+0.16 Tears up. This Tears up will subtract its value from Isaac's current tear rate, which allows Isaac's tear rate to go over the maximum rate of fire. This also means that the more tears upgrades Isaac gets, the more effective Pisces's Tears Up effect becomes.
+		Increases tear knockback.
+		Works even with Piercing Tears, but the knockback effect is reduced.</effect>
+	</id>
+
+	<id=227>
+		<name>Piggy Bank</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/0/0b/Piggy_Bank_Icon.png?version=c0260d471106691c7f443bdedc903705</img>
+		<type>Passive</type>
+		<pool>Treasure Room, Shop</pool>
+		<pickup>My life savings</pickup>
+		<effect>Adds 3 coins on pickup
+		When Isaac takes damage 1-2 coins will drop.</effect>
+	</id>
+
+	<id=218>
+		<name>Placenta</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/c/cc/Placenta_Icon.png?version=adcea567c2bb54f644633c7c6da11abb</img>
+		<type>Passive</type>
+		<pool>Boss, Destroying polyps</pool>
+		<pickup>HP up + regen</pickup>
+		<effect>Grants one full heart container when picked up.
+		Grants a chance to regenerate a half-heart every one minute of gameplay.</effect>
+	</id>
+
+	<id=169>
+		<name>Polyphemus</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/2/2b/Polyphemus_Icon.png?version=62707003cadae31ca3f876608a026788</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>Mega Tears</pickup>
+		<effect>Greatly increased damage: (Damage + 4) * 2
+		Tears down: (Delay * 2.1) + 3
+		If a tear kills an enemy, the tear travels on with the leftover damage.</effect>
+	</id>
+
+	<id=261>
+		<name>Proptosis</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/c/cb/Proptosis_Icon.png?version=62c647111537e0cbabbd2b9841afab39</img>
+		<type>Passive</type>
+		<pool>Treasure Room, Pool</pool>
+		<pickup>Short range mega tears</pickup>
+		<effect>Doubles your Damage stat: Isaac's tears become larger and do more damage, but shrink and do less damage the further they travel.  At maximum range they will still deal approximately +30% damage.
+		Caps your Range at approximately base starting Range (Range can still be affected by Shot Speed).</effect>
+	</id>
+
+	<id=281>
+		<name>Punching Bag</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/b/b4/Punching_Bag_Icon.png?version=f0605f5727088d24032d94b5f0815062</img>
+		<type>Passive</type>
+		<pool>Treasure Room, Pool</pool>
+		<pickup>Scape Goat</pickup>
+		<effect>Spawns a familiar that walks around the room and acts as a decoy for monsters.
+		If the monsters are closer to the decoy than Isaac, they will attack the decoy.
+		Punching Bag will also block enemy shots.</effect>
+	</id>
+
+	<id=190>
+		<name>Pyro</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/2/26/Pyro_Icon.png?version=11a55306b509105f8ca76e3177408b88</img>
+		<type>Passive</type>
+		<pool>Treasure Room, Secret Room</pool>
+		<pickup>99 bombs</pickup>
+		<effect>Sets Isaac's bomb count to 99.</effect>
+	</id>
+
+	<id=223>
+		<name>Pyromaniac</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/a/a0/Pyromaniac_Icon.png?version=3832c8809ccc80826840b32f111cb5bf</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>It hurts so good +5 Bombs</pickup>
+		<effect>Grants Isaac 5 bombs.
+		All explosions heal Isaac for one red heart instead of damaging him.
+		If Isaac has no red heart containers or full health, no damage is taken.</effect>
+	</id>
+
+	<id=74>
+		<name>A Quarter</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/c/c3/A_Quarter_Icon.png?version=5064d36ed241f4cfa53dacffb8fb7b31</img>
+		<type>Passive</type>
+		<pool>Secret Room, Treasure Room</pool>
+		<pickup>+25 coins</pickup>
+		<effect>Gives Isaac 25 cents.</effect>
+	</id>
+
+	<id=174>
+		<name>Rainbow Baby</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/f/f0/Rainbow_Baby_Icon.png?version=641d095fcdcfbd4ae59ece296f26c0bd</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>Random buddy</pickup>
+		<effect>Spawns a familiar that follows Isaac around and fires rainbow tears.</effect>
+	</id>
+
+	<id=19>
+		<name>Raw Liver</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/2/29/Raw_Liver_Icon.png?version=11914cff810f9152b8138083e4a3e004</img>
+		<type>Passive</type>
+		<pool>Secret Room</pool>
+		<pickup>HP up</pickup>
+		<effect>Adds two heart containers and fully restores Isaac's health.</effect>
+	</id>
+
+	<id=98>
+		<name>The Relic</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/b/bb/The_Relic_Icon.png?version=22e84ecd58e5b018be060f1616c938e0</img>
+		<type>Passive</type>
+		<pool>Treasure Room, Angel Room</pool>
+		<pickup>Soul generator</pickup>
+		<effect>Isaac is followed by a small cross that drops a soul heart every 4 rooms.</effect>
+	</id>
+
+	<id=95>
+		<name>Robo-Baby</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/7/77/Robo-Baby_Icon.png?version=e9a87f1e327cbddb7cf7ac4ef3775a35</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>Friends 'till the bbbbzzzt</pickup>
+		<effect>Spawns a familiar that shoots Technology lasers that deal 3.5 damage each and pass through obstacles.</effect>
+	</id>
+
+	<id=267>
+		<name>Robo-Baby 2.0</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/c/ce/Robo-Baby_2.0_Icon.png?version=3d8df736cb048875e56e2bced99a5aca</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>We worked out all the kinks</pickup>
+		<effect>Spawns a controllable familiar that automatically shoots Technology lasers towards enemies when aligned with them for 3.5 damage per shot.</effect>
+	</id>
+
+	<id=14>
+		<name>Roid Rage</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/5/5a/Roid_Rage_Icon.png?version=fccda8777ae7dbe041af2749aecdc756</img>
+		<type>Passive</type>
+		<pool>Treasure Room, Boss, Demon Beggar</pool>
+		<pickup>Speed and range up</pickup>
+		<effect>+0.6 Speed up.
+		+5.25 Range up.
+		+0.5 Shot Height</effect>
+	</id>
+
+	<id=72>
+		<name>Rosary</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/9/9a/Rosary_Icon.png?version=b33224dccf65cc7c67734321d02dd734</img>
+		<type>Passive</type>
+		<pool>Treasure Room, Pool, Angel Room</pool>
+		<pickup>Faith up</pickup>
+		<effect>Gives 3 Soul Hearts.
+		Increases The chances to find The Bible item. The item will be added into the Item Pools of the Boss Pool, Shop Pool, Beggar Pool, Secret Room Pool, Golden Chest Pool and the Devil Room Pool. It is possible to find The Bible multiple times in a single run, however, once picked up, it will be removed from all pools.</effect>
+	</id>
+
+	<id=268>
+		<name>Rotten Baby</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/f/f1/Rotten_Baby_Icon.png?version=cf33fa84dab2d28f0aff053a1ab70826</img>
+		<type>Passive</type>
+		<pool>Treasure Room, Devil Room</pool>
+		<pickup>Infested friend</pickup>
+		<effect>Spawns a familiar which does not shoot tears, but spawns attack flies when the player holds down the fire key.</effect>
+	</id>
+
+	<id=26>
+		<name>Rotten Meat</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/d/d9/Rotten_Meat_Icon.png?version=78376d3d3ebdff04bfcc4ad4775f53a9</img>
+		<type>Passive</type>
+		<pool>Boss</pool>
+		<pickup>HP up</pickup>
+		<effect>Grants a full heart container.</effect>
+	</id>
+
+	<id=221>
+		<name>Rubber Cement</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/5/58/Rubber_Cement_Icon.png?version=a3f8f6303ec43a9569df682eec69fccb</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>Bouncing tears</pickup>
+		<effect>Makes tears bounce off walls, enemies and environmental objects.
+		Tears that bounce off of enemies bounce in random directions, whereas tears that bounce off of wall and other objects bounce directly back.</effect>
+	</id>
+
+	<id=94>
+		<name>Sack Of Pennies</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/2/20/Sack_Of_Pennies_Icon.png?version=54a43270c6cf40e18586ac12c8aa6c88</img>
+		<type>Passive</type>
+		<pool>Treasure Room, Secret Room</pool>
+		<pickup>Gives money</pickup>
+		<effect>Isaac is followed by a small bag that drops a coin every 2 rooms.</effect>
+	</id>
+
+	<id=182>
+		<name>Sacred Heart</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/2/2c/Sacred_Heart_Icon.png?version=24ec719d138b418c7a0ea831aab17d16</img>
+		<type>Passive</type>
+		<pool>Angel Room</pool>
+		<pickup>Homing shots + DMG up</pickup>
+		<effect>x2.3 Damage; then +1 to Damage.
+		+4.125 Range
+		-0.4 Tears
+		-25% Shot Speed
+		Grants homing tears.
+		Grants one Heart Container.
+		Replenishes all Red Hearts.</effect>
+	</id>
+
+	<id=172>
+		<name>Sacrificial Dagger</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/d/d6/Sacrificial_Dagger_Icon.png?version=60b5cd7ab94b9720b873035ff2f3c7c2</img>
+		<type>Passive</type>
+		<pool>Treasure Room, Devil Room</pool>
+		<pickup>My fate protects me</pickup>
+		<effect>A sideways dagger orbits Isaac which deals high damage to enemies on contact and blocks tears.</effect>
+	</id>
+
+	<id=220>
+		<name>Sad Bombs</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/5/5c/Sad_Bombs_Icon.png?version=847369fa27427aa2f51aaf009e1f6ea6</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>Tear blast +5 Bombs</pickup>
+		<effect>Upon exploding Bombs shoot 8 tears off in every direction, similar to Tammy's Head. The tears are affected by any tear modifiers Isaac has on his own tears.
+		Isaac gains five bombs.</effect>
+	</id>
+
+	<id=1>
+		<name>The Sad Onion</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/1/1a/The_Sad_Onion_Icon.png?version=6afbf17ee570e887cf9f2d129daa6619</img>
+		<type>Passive</type>
+		<pool>Treasure</pool>
+		<pickup>Tears up</pickup>
+		<effect>+0.7 Tears up.</effect>
+	</id>
+
+	<id=339>
+		<name>Safety Pin</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/f/fe/Safety_Pin_Icon.png?version=84aec03923b6f6871b62ff2aad3cbead</img>
+		<type>Passive</type>
+		<pool>Boss</pool>
+		<pickup>Evil + range + shot speed up</pickup>
+		<effect>+5.25 Range.
+		+0.5 Shot Height.
+		+16% Shot Speed.
+		Gives 1 black heart.</effect>
+	</id>
+
+	<id=306>
+		<name>Sagittarius</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/5/55/Sagittarius_Icon.png?version=d0c5ffa2e9ca9b02a19f807fc53a08da</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>Penetrative shot + speed up</pickup>
+		<effect>+0.2 Speed up.
+		Grants piercing tears.</effect>
+	</id>
+
+	<id=321>
+		<name>Samson's Chains</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/2/23/Samson%27s_Chains_Icon.png?version=ac68e35dbe253cf3d76e98e11d49f7a0</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>The ol' ball and chain</pickup>
+		<effect>Attaches a ball and chain to Isaac's ankle that crushes rocks, blocks projectiles, and damages enemies.</effect>
+	</id>
+
+	<id=142>
+		<name>Scapular</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/0/09/Scapular_Icon.png?version=b74d5d9a3c98491740c0798ce8e518c0</img>
+		<type>Passive</type>
+		<pool>Treasure Room, Angel Room</pool>
+		<pickup>You have been blessed</pickup>
+		<effect>Once per room, when Isaac is reduced to his last half Heart (either red, soul or black), the aura around his head temporarily vanishes and he is granted one Soul Heart.</effect>
+	</id>
+
+	<id=305>
+		<name>Scorpio</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/6/69/Scorpio_Icon.png?version=0d87a2ad666064ae76a97fa9d6efda85</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>Poison tears</pickup>
+		<effect>Grants poison tears, dealing damage over time when inflicted.</effect>
+	</id>
+
+	<id=255>
+		<name>Screw</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/3/37/Screw_Icon.png?version=909e9aeaa57f043c141d765078d6584d</img>
+		<type>Passive</type>
+		<pool>Boss</pool>
+		<pickup>Tears + shot speed up</pickup>
+		<effect>+0.5 Tears up.
+		+0.2 Shot speed up.</effect>
+	</id>
+
+	<id=205>
+		<name>Sharp Plug</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/0/08/Sharp_Plug_Icon.png?version=c35b2eea4b124fe133071822043e4775</img>
+		<type>Passive</type>
+		<pool>Shop</pool>
+		<pickup>Charge with blood</pickup>
+		<effect>If Isaac's current activated item has no charges, attempting to activate the item fully recharges it in exchange for two units of Isaac's health.
+		If the item has any charges, the Sharp Plug will not work.
+		If Isaac has less than two black or soul hearts, it will remove them but will not remove any red hearts.</effect>
+	</id>
+
+	<id=280>
+		<name>Sissy Longlegs</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/8/80/Sissy_Longlegs_Icon.png?version=d452a00729eccf08826800bc197fbfe6</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>She loves you</pickup>
+		<effect>Spawns a familiar that wanders around the room and occasionally lays friendly blue spiders.
+		She only spawns up to 5 blue spiders at a time.
+		She only spawns spiders when there are enemies in the room.</effect>
+	</id>
+
+	<id=67>
+		<name>Sister Maggy</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/7/7e/Sister_Maggy_Icon.png?version=b9bfb8d7b5d46d681532b159d09d9970</img>
+		<type>Passive</type>
+		<pool>Treasure Room, Devil Room</pool>
+		<pickup>Friends 'till the end</pickup>
+		<effect>Sister Maggy is a familiar that will follow Isaac and shoot tears that deal 3.5 damage.
+		These tears appear red but have no special effects.</effect>
+	</id>
+
+	<id=9>
+		<name>Skatole</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/8/81/Skatole_Icon.png?version=d4d4db74d516332ddbc518362aa7960e</img>
+		<type>Passive</type>
+		<pool>Shell Game Beggar</pool>
+		<pickup>Fly love</pickup>
+		<effect>All types of flies except Boom Fly, Red Boom Fly, Sucker, and Spit become passive and slowly move towards Isaac. They will not fire at Isaac but will still cause contact damage. Isaac is also still vulnerable to the blast shots from Sucker and Spit flies.
+		Boom Flies and Red Boom Flies can still harm Isaac, but move much slower.
+		This item belongs to the Lord of the Flies set. Collecting three items from the set will transform Isaac into Lord of the Flies.</effect>
+	</id>
+
+	<id=17>
+		<name>Skeleton Key</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/5/54/Skeleton_Key_Icon.png?version=bb6d65cb01eb3a59bd2bb8e57fb51420</img>
+		<type>Passive</type>
+		<pool>Secret Room</pool>
+		<pickup>99 keys</pickup>
+		<effect>Gives the player 99 keys.</effect>
+	</id>
+
+	<id=90>
+		<name>The Small Rock</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/6/61/The_Small_Rock_Icon.png?version=7a043f7f292c87059d8eabc72be82226</img>
+		<type>Passive</type>
+		<pool>Tinted Rock</pool>
+		<pickup>DMG up</pickup>
+		<effect>+1 Damage up.
+		-0.2 Speed down (not applied until the next time Isaac's speed stat is updated).
+		+0.2 Tears up (not applied until the next time Isaac's tears stat is updated).</effect>
+	</id>
+
+	<id=264>
+		<name>Smart Fly</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/d/da/Smart_Fly_Icon.png?version=7c996d52aa9d49348b57d3bd8ebda661</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>Revenge Fly</pickup>
+		<effect>Before Isaac takes damage, the fly serves as an orbital familiar, blocking enemy shots.
+		After Isaac takes damage, this fly will deal continuous touch damage to whatever enemy caused the damage until it is dead. The fly will then systematically attack one enemy at a time until the room is cleared.
+		This item belongs to the Lord of the Flies set. Collecting three items from the set will transform Isaac into Lord of the Flies.</effect>
+	</id>
+
+	<id=189>
+		<name>SMB Super Fan!</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/0/03/SMB_Super_Fan%21_Icon.png?version=114c6c0e6489dd91c633179add48211c</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>All stats up</pickup>
+		<effect>+1 Heart Container
+		+0.3 Damage
+		+0.2 Tears
+		+0.2 Speed
+		+0.5 Range
+		+1 Shot Height
+		Restores Isaac to full health.</effect>
+	</id>
+
+	<id=346>
+		<name>A Snack</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/7/7e/A_Snack_Icon.png?version=047c6d881b0251beff90060b93fa9745</img>
+		<type>Passive</type>
+		<pool>Boss</pool>
+		<pickup>HP up</pickup>
+		<effect>Grants Isaac a filled heart container.</effect>
+	</id>
+
+	<id=330>
+		<name>Soy Milk</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/3/39/Soy_Milk_Icon.png?version=5b4a925f36a04be19c39f4767c39dd43</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>DMG Down + Tears Way Up</pickup>
+		<effect>Tears up: (Tear Delay/4) - 2
+		x0.2 Damage Multiplier (Damage down)</effect>
+	</id>
+
+	<id=335>
+		<name>The Soul</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/b/b4/The_Soul_Icon.png?version=cc9ead8174f2470263e6ae09afa27af1</img>
+		<type>Passive</type>
+		<pool>Angel Room, PoolTreasure Room, Pool</pool>
+		<pickup>I am all</pickup>
+		<effect>Gives Isaac two soul hearts when picked up.
+		Isaac gains a pulsing blue aura that repels enemies and projectiles.
+		The power of the repel force alternates in strength, sometimes being able to counter a projectile well before it hits Isaac, to being able to only slow it down. The strength can be measured by the intensity of the aura.
+		Ground based enemies will overcome the counterforce easier than flying enemies and projectiles.</effect>
+	</id>
+
+	<id=143>
+		<name>Speed Ball</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/1/10/Speed_Ball_Icon.png?version=9a196f6925e9f492008079efc8e60423</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>Speed + shot speed up</pickup>
+		<effect>+0.3 Speed up.
+		+0.2 Shot speed up.</effect>
+	</id>
+
+	<id=91>
+		<name>Spelunker Hat</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/a/af/Spelunker_Hat_Icon.png?version=4943b83fc9ad4f9239ae52fb7664bf85</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>See-through doors</pickup>
+		<effect>Reveals on map what type of room all rooms adjacent to your current room are (shop, sacrifice room, etc.)
+		Will also show secret rooms and super secret rooms on the map when in a room adjacent to their location.</effect>
+	</id>
+
+	<id=89>
+		<name>Spider Bite</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/6/65/Spider_Bite_Icon.png?version=2b99a547a77078c48838b6a3e7f09e6d</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>Slow effect</pickup>
+		<effect>Adds a chance to shoot slowing tears, reducing speed of enemy movement and any projectile fired by them.</effect>
+	</id>
+
+	<id=211>
+		<name>Spider Baby</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/2/24/Spider_Baby_Icon.png?version=1ca9bde13ce0ee330dbe817545c2553d</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>Spider revenge</pickup>
+		<effect>Spawns 1-2 friendly blue spider(s) after taking damage.</effect>
+	</id>
+
+	<id=159>
+		<name>Spirit Of The Night</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/9/93/Spirit_Of_The_Night_Icon.png?version=cccdd05d1fb8764dd38274821b80f6ab</img>
+		<type>Passive</type>
+		<pool>Devil Room</pool>
+		<pickup>Scary</pickup>
+		<effect>Grants spectral tears and flight.</effect>
+	</id>
+
+	<id=3>
+		<name>Spoon Bender</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/a/ae/Spoon_Bender_Icon.png?version=ad7484f057eaaecce0a553f301fd1d5c</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>Homing shots</pickup>
+		<effect>Grants homing tears.</effect>
+	</id>
+
+	<id=196>
+		<name>Squeezy</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/c/c5/Squeezy_Icon.png?version=4af0162c607f935c7a4ab1c1de9a79b5</img>
+		<type>Passive</type>
+		<pool>Boss</pool>
+		<pickup>Tears up</pickup>
+		<effect>+0.4 Tears.
+		Spawns two soul heart pickups.</effect>
+	</id>
+
+	<id=251>
+		<name>Starter Deck</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/7/74/Starter_Deck_Icon.png?version=209388ffee36d5b1320821b92f06dd22</img>
+		<type>Passive</type>
+		<pool>Shop</pool>
+		<pickup>Extra card room</pickup>
+		<effect>Spawns a random Card.
+		Allows Isaac to carry two cards at once. Cycle through cards by pressing the Control key, R2, or RT on PC, Playstation, or Xbox, respectively.
+		Replaces all pills with cards except the pill dropped by Caffeine Pill. Pills already on the ground will be converted to cards upon picking up Starter Deck.</effect>
+	</id>
+
+	<id=64>
+		<name>Steam Sale</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/8/87/Steam_Sale_Icon.png?version=292eca191701b05ce4a51f7869829e6c</img>
+		<type>Passive</type>
+		<pool>Shop, Greed</pool>
+		<pickup>50% off</pickup>
+		<effect>Halves shop prices.</effect>
+	</id>
+
+	<id=176>
+		<name>Stem Cells</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/5/53/Stem_Cells_Icon.png?version=a2ed38b8e2ebb71623dde4e5555adc75</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>HP up</pickup>
+		<effect>Grants Isaac a full heart container.
+		+0.16 shot speed.</effect>
+	</id>
+
+	<id=50>
+		<name>Steven</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/5/58/Steven_%28Item%29_Icon.png?version=7c294515e694cc93727c21786d22b9f7</img>
+		<type>Passive</type>
+		<pool>Steven</pool>
+		<pickup>DMG up</pickup>
+		<effect>+1 Damage up.</effect>
+	</id>
+
+	<id=138>
+		<name>Stigmata</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/f/f1/Stigmata_Icon.png?version=db98dd4b3ab85f19ede313a590e41cd3</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>DMG + HP up</pickup>
+		<effect>Grants one full heart container.
+		+0.3 Damage up.</effect>
+	</id>
+
+	<id=232>
+		<name>Stop Watch</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/4/40/Stop_Watch_Icon.png?version=ac6c7f9e9660402912e70a58e2c0ca7d</img>
+		<type>Passive</type>
+		<pool>Shop</pool>
+		<pickup>Let's slow this down a bit</pickup>
+		<effect>Automatically inflicts slow to all enemies in every room.</effect>
+	</id>
+
+	<id=315>
+		<name>Strange Attractor</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/e/e3/Strange_Attractor_Icon.png?version=c960d881f0ef0ea3de60193becdf5c3d</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>Magnetic tears</pickup>
+		<effect>Monsters, pickups, and trinkets are magnetically attracted to the player character's tears.</effect>
+	</id>
+
+	<id=92>
+		<name>Super Bandage</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/2/20/Super_Bandage_Icon.png?version=4b30944192f5791ca522ba9ad66efd37</img>
+		<type>Passive</type>
+		<pool>Treasure Room, Boss</pool>
+		<pickup>+2 hearts</pickup>
+		<effect>Gives Isaac a health up and two soul hearts.</effect>
+	</id>
+
+	<id=345>
+		<name>Synthoil</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/6/6c/Synthoil_Icon.png?version=6ee82d5470da75b36d8b049098d813cb</img>
+		<type>Passive</type>
+		<pool>Boss</pool>
+		<pickup>DMG up + range</pickup>
+		<effect>+1 Damage
+		+5.25 Range
+		+0.5 Tears Height</effect>
+	</id>
+
+	<id=299>
+		<name>Taurus</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/e/e3/Taurus_Icon.png?version=f16b21fa1b58aecaa9e88fc2ec7095d5</img>
+		<type>Passive</type>
+		<pool>Treasure Room, Pool</pool>
+		<pickup>Speed down + rage is building</pickup>
+		<effect>-0.3 Speed down.
+		When in a room with enemies, Isaac gradually gains speed at a rate of +0.065 per second.
+		Once Isaac's speed reaches 2.0, the maximum speed, he gains the My Little Unicorn effect for 5 seconds, becoming invulnerable, and loses the speed bonus from Taurus afterwards.</effect>
+	</id>
+
+	<id=244>
+		<name>Tech.5</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/9/9c/Tech.5_Icon.png?version=18bb4e01993b47131c8bab333cf1341f</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>It's still being tested...</pickup>
+		<effect>Grants an unlimited range piercing laser with random rate of fire that does not replace tears.
+		The laser occasionally fires with the effect of a random item or trinket, including:
+		Hook Worm
+		Spoon Bender
+		Tiny Planet</effect>
+	</id>
+
+	<id=68>
+		<name>Technology</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/8/80/Technology_Icon.png?version=67aba7a848a8368aac43ead32f69fe34</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>Laser tears</pickup>
+		<effect>Replaces tears with a piercing laser with unlimited range.</effect>
+	</id>
+
+	<id=152>
+		<name>Technology 2</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/8/81/Technology_2_Icon.png?version=3877b3985e507e4f1b53138f8322c41f</img>
+		<type>Passive</type>
+		<pool>Treasure</pool>
+		<pickup>Laser</pickup>
+		<effect>Replaces character right eye tears with an unlimited range piercing laser which fires continuously.
+		x0.65 Damage multiplier.</effect>
+	</id>
+
+	<id=233>
+		<name>Tiny Planet</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/3/3f/Tiny_Planet_Icon.png?version=b73c6394089d284937aaf601b3a7f2ef</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>Orbiting tears + range up</pickup>
+		<effect>+7 Shot Height, allowing tears to fly over all obstacles.
+		Tears now revolve around Isaac at a fixed distance until they hit the ground.</effect>
+	</id>
+
+	<id=328>
+		<name>The Negative</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/0/0a/The_Negative_Icon.png?version=2fefd4f24113b2e89222960c00614827</img>
+		<type>Passive</type>
+		<pool>Mom</pool>
+		<pickup>Fate Chosen</pickup>
+		<effect>If the character has half a red heart or no red hearts after taking damage, it triggers The Necronomicon effect, damaging all enemies in the room.
+		Allows entrance into the Dark Room after beating Satan in Sheol by touching the chest.</effect>
+	</id>
+
+	<id=327>
+		<name>The Polaroid</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/f/f4/The_Polaroid_Icon.png?version=88426b876a3d0dd85693dfa0aa388355</img>
+		<type>Passive</type>
+		<pool>Mom</pool>
+		<pickup>Fate Chosen</pickup>
+		<effect>If the character has half a red heart or no red hearts after taking damage, it triggers the Book Of Shadows effect, creating a shield that nullifies all types of damage for 5 seconds.
+		Allows entrance into The Chest after beating Isaac in the Cathedral by touching the chest.</effect>
+	</id>
+
+	<id=249>
+		<name>There's Options</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/a/a9/There%27s_Options_Icon.png?version=f75842654da880e41132652d74e5d13c</img>
+		<type>Passive</type>
+		<pool>Shop</pool>
+		<pickup>More options</pickup>
+		<effect>Spawns two items instead of one after defeating a boss. Only one item can be chosen; the other disappears. The extra item is selected from the normal Boss Item Pool, regardless of the boss.</effect>
+	</id>
+
+	<id=314>
+		<name>Thunder Thighs</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/9/9c/Thunder_Thighs_Icon.png?version=b4c1aad4280b79f081bfd95d194000d4</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>HP up + speed down + you feel stompy</pickup>
+		<effect>+1 Heart container.
+		-0.4 Speed down.
+		Isaac gains the ability to destroy obstacles by walking into them.</effect>
+	</id>
+
+	<id=183>
+		<name>Toothpicks</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/9/9b/Toothpicks_Icon.png?version=ac7713d3bb1bc55a867caabaad1f165b</img>
+		<type>Passive</type>
+		<pool>Boss</pool>
+		<pickup>Tears + shot speed up</pickup>
+		<effect>+0.7 Tears up.
+		+16% Shot speed.
+		Colors tears red.</effect>
+	</id>
+
+	<id=341>
+		<name>Torn Photo</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/d/d1/Torn_Photo_Icon.png?version=65fb32607d5cd780a05c9c5a17b4ec4d</img>
+		<type>Passive</type>
+		<pool>Boss</pool>
+		<pickup>Tears + shot speed up</pickup>
+		<effect>+0.7 Tears
+		+16% Shot Speed</effect>
+	</id>
+
+	<id=150>
+		<name>Tough Love</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/6/62/Tough_Love_Icon.png?version=149fc98333b2523c371abeb1590ec67a</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>Tooth shot</pickup>
+		<effect>Adds a chance to shoot a tooth instead of a tear, which deals greater damage (x3.2) than regular tears.</effect>
+	</id>
+
+	<id=20>
+		<name>Transcendence</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/6/62/Transcendence_Icon.png?version=ca8a8d29bb27c919c1035587e7949772</img>
+		<type>Passive</type>
+		<pool>Secret Room</pool>
+		<pickup>We all float down here...</pickup>
+		<effect>Grants flight.</effect>
+	</id>
+
+	<id=54>
+		<name>Treasure Map</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/5/5c/Treasure_Map_Icon.png?version=3d1cd1defb139917791bb56b52950c2f</img>
+		<type>Passive</type>
+		<pool>Shop, Beggar</pool>
+		<pickup>Full visible map</pickup>
+		<effect>Causes all rooms, excluding the Secret Room and Super Secret Room, to appear on the minimap. Does not reveal contents of rooms.</effect>
+	</id>
+
+	<id=243>
+		<name>Trinity Shield</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/2/29/Trinity_Shield_Icon.png?version=e8dcb5f38415c4c41ab4b8532f7b8a61</img>
+		<type>Passive</type>
+		<pool>Angel Room</pool>
+		<pickup>"You feel guarded"</pickup>
+		<effect>Isaac uses a shield to block shots.
+		The shield stays in the same direction until Isaac fires in another direction.</effect>
+	</id>
+
+	<id=108>
+		<name>The Wafer</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/9/97/The_Wafer_Icon.png?version=0dc60abb405311f5565e4bfdd02aa3f2</img>
+		<type>Passive</type>
+		<pool>Treasure Room, Angel Room</pool>
+		<pickup>Damage resistance</pickup>
+		<effect>All damage taken is reduced to half a heart.</effect>
+	</id>
+
+	<id=122>
+		<name>Whore Of Babylon</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/7/78/Whore_Of_Babylon_Icon.png?version=492c780b5e5fe1f276ca277644e6dd34</img>
+		<type>Passive</type>
+		<pool>Devil Room</pool>
+		<pickup>Curse up</pickup>
+		<effect>Increases Damage by 1.5 and speed by 0.3 whenever the character health is half red heart or less (one red heart for Eve).
+		Changes Eve's damage multiplier from x0.75 to x1.0 when active.</effect>
+	</id>
+
+	<id=32>
+		<name>Wire Coat Hanger</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/0/05/Wire_Coat_Hanger_Icon.png?version=97e4f2c75884325edd26beb3f064b1c4</img>
+		<type>Passive</type>
+		<pool>Boss</pool>
+		<pickup>Tears up</pickup>
+		<effect>+0.7 Tears.</effect>
+	</id>
+
+	<id=27>
+		<name>Wooden Spoon</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/8/83/Wooden_Spoon_Icon.png?version=6587e3273dfada4bd538876b8717c431</img>
+		<type>Passive</type>
+		<pool>Boss</pool>
+		<pickup>Speed up</pickup>
+		<effect>+0.3 Speed</effect>
+	</id>
+
+	<id=303>
+		<name>Virgo</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/6/66/Virgo_Icon.png?version=01397ffa8fa3c2234a79b2793ce6355f</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>You feel refreshed and protected</pickup>
+		<effect>Grants a chance to trigger the Book Of Shadows effect upon taking damage, creating a shield that nullifies all types of damage for 7 seconds.
+		The activation chance depends on the Luck stat, and goes up to 100% with 10 Luck.</effect>
+	</id>
+
+	<id=13>
+		<name>The Virus</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/7/7d/The_Virus_Icon.png?version=755a9d4493cde423db3920d7e7b9362f</img>
+		<type>Passive</type>
+		<pool>Treasure Room, Lust</pool>
+		<pickup>Poison touch</pickup>
+		<effect>Inflicts poison on enemies who make contact with Isaac.
+		-0.1 Speed down (not applied until the next time Isaac's speed stat is updated).</effect>
+	</id>
+
+	<id=76>
+		<name>X-Ray Vision</name>
+		<img>http://hydra-media.cursecdn.com/bindingofisaacrebirth.gamepedia.com/0/00/X-Ray_Vision_Icon.png?version=af27370f8a11356fc4dc5352e99b5535</img>
+		<type>Passive</type>
+		<pool>Treasure Room</pool>
+		<pickup>I've seen everything</pickup>
+		<effect>Opens Secret Room and Super Secret Room automatically.</effect>
+	</id>
+
+</items>
