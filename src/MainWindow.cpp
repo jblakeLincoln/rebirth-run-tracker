@@ -1,9 +1,11 @@
 #include "MainWindow.h"
 #include "ui_MainWindow.h"
 
-QString logFilePath = "C:\\Users\\Jordan\\Documents\\My Games\\Binding of Isaac Rebirth\\log.txt";
-QString outFilePath = "C:\\Users\\Jordan\\Documents\\My Games\\Binding of Isaac Rebirth\\mylog.txt";
+QString logFilePath = "C:\\Users\\The Gatekeeper\\Documents\\My Games\\Binding of Isaac Rebirth\\log.txt";
+QString outFilePath = "C:\\Users\\The Gatekeeper\\Documents\\My Games\\Binding of Isaac Rebirth\\mylog.txt";
 QString exeFilePath = "E:\\Steam\\SteamApps\\common\\The Binding of Isaac Rebirth\\isaac-ng.exe";
+QString exeFilePath = "E:\\Program Files (x86)\\Steam\\SteamApps\\common\\The Binding of Isaac Rebirth\\isaac-ng.exe";
+
 
 MainWindow::~MainWindow()
 {

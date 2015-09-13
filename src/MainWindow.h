@@ -7,6 +7,7 @@
 #include <QFile>
 #include <QFileSystemWatcher>
 
+#include <QGridLayout>
 #include <QProcess>
 #include <QString>
 #include <QTextStream>
